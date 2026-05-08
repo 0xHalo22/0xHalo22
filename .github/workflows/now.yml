@@ -1,0 +1,51 @@
+name: now
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/now.yml"
+      - ".github/scripts/**"
+  schedule:
+    # every 6 hours, off the hour to dodge the cron stampede.
+    # 03:17, 09:17, 15:17, 21:17 UTC. with TIMEZONE=Europe/Lisbon
+    # this lands roughly at 04:17, 10:17, 16:17, 22:17 local time
+    # (give or take DST), which is a nice 4-times-a-day cadence.
+    - cron: "17 3,9,15,21 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: now
+  cancel-in-progress: false
+
+jobs:
+  now:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: set up python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: configure git identity
+        env:
+          GIT_USER_NAME: ${{ secrets.GIT_USER_NAME }}
+          GIT_USER_EMAIL: ${{ secrets.GIT_USER_EMAIL }}
+          DEFAULT_USER: ${{ github.repository_owner }}
+        run: |
+          git config user.name "${GIT_USER_NAME:-$DEFAULT_USER}"
+          git config user.email "${GIT_USER_EMAIL:-$DEFAULT_USER@users.noreply.github.com}"
+
+      - name: regenerate readme
+        run: python3 .github/scripts/now.py
+
+      - name: push
+        run: git push
