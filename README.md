@@ -3,14 +3,14 @@
 <!-- NOW:START -->
 
 ```
-   · 10:36 PM                                🌖  waning gibbous               ䷠  33 Dùn — Retreat
-   somewhere along the coast                 55% illuminated                  ☰ heaven over ☶ mountain
-                                             last quarter today               "step back early; this is
-   _`/"".-.     Light rain shower            next new moon: May 16             not weakness"
-    ,\_(   ).   59 °F
-     /(___(__)  ↖ 16 mph
-       ‘ ‘ ‘ ‘  6 mi
-      ‘ ‘ ‘ ‘   0.0 in
+   · 5:25 AM                             🌖  waning gibbous               ䷡  34 Dà Zhuàng — Great Power
+   somewhere along the coast             52% illuminated                  ☳ thunder over ☰ heaven
+                                         last quarter today               "strength has arrived; do
+     \  /       Partly cloudy            next new moon: May 16             not abuse it"
+   _ /"".-.     +53(50) °F
+     \_(   ).   ↑ 14 mph
+     /(___(__)  6 mi
+                0.1 in
 ```
 
 <!-- NOW:END -->
