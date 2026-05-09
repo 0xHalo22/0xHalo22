@@ -3,14 +3,14 @@
 <!-- NOW:START -->
 
 ```
-   · 4:34 PM                               🌘  waning crescent           ䷡  34 Dà Zhuàng — Great Power
-   somewhere along the coast               47% illuminated               ☳ thunder over ☰ heaven
-                                           new moon in 7 days            "strength has arrived; do
-                Shower in vicinity         next new moon: May 16          not abuse it"
-       .--.     62 °F
-    .-(    ).   ↗ 18 mph
-   (___.__)__)  6 mi
-                0.0 in
+   · 10:30 PM                           🌘  waning crescent              ䷡  34 Dà Zhuàng — Great Power
+   somewhere along the coast            44% illuminated                  ☳ thunder over ☰ heaven
+                                        new moon in 7 days               "strength has arrived; do
+   _`/"".-.     Thunderstorm            next new moon: May 16             not abuse it"
+    ,\_(   ).   59 °F
+     /(___(__)  ↗ 15 mph
+      ⚡‘‘⚡‘‘  6 mi
+      ‘ ‘ ‘ ‘   0.0 in
 ```
 
 <!-- NOW:END -->
