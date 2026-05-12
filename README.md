@@ -3,14 +3,14 @@
 <!-- NOW:START -->
 
 ```
-   · 10:45 PM                          🌘  waning crescent        ䷣  36 Míng Yí — Darkening of the Light
-   somewhere along the coast           24% illuminated            ☷ earth over ☲ fire
-                                       new moon in 5 days         "hide your light a while;
-       .-.      Light rain shower      next new moon: May 16       the darkness is brief"
-      (   ).    59 °F
-     (___(__)   ↑ 8 mph
-      ‘ ‘ ‘ ‘   6 mi
-     ‘ ‘ ‘ ‘    0.0 in
+   · 5:29 AM                              🌘  waning crescent               ䷤  37 Jiā Rén — The Family
+   somewhere along the coast              22% illuminated                   ☴ wind over ☲ fire
+                                          new moon in 5 days                "tend to your inner
+     \  /       Partly cloudy             next new moon: May 16              circle; the outer takes
+   _ /"".-.     57 °F                                                        care of itself"
+     \_(   ).   ↗ 6 mph
+     /(___(__)  6 mi
+                0.0 in
 ```
 
 <!-- NOW:END -->
