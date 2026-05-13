@@ -3,14 +3,14 @@
 <!-- NOW:START -->
 
 ```
-   · 10:44 PM                                🌘  waning crescent             ䷤  37 Jiā Rén — The Family
-   somewhere along the coast                 16% illuminated                 ☴ wind over ☲ fire
-                                             new moon in 4 days              "tend to your inner
-   _`/"".-.     Patchy rain nearby           next new moon: May 16            circle; the outer takes
-    ,\_(   ).   60 °F                                                         care of itself"
-     /(___(__)  ↗ 7 mph
-       ‘ ‘ ‘ ‘  6 mi
-      ‘ ‘ ‘ ‘   0.0 in
+   · 5:34 AM                               🌘  waning crescent                ䷥  38 Kuí — Opposition
+   somewhere along the coast               14% illuminated                    ☲ fire over ☱ lake
+                                           new moon in 4 days                 "differences are not
+     \  /       Partly cloudy              next new moon: May 16               enmity — find the common
+   _ /"".-.     +55(57) °F                                                     point"
+     \_(   ).   ↗ 2 mph
+     /(___(__)  6 mi
+                0.0 in
 ```
 
 <!-- NOW:END -->
