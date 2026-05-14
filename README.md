@@ -3,12 +3,12 @@
 <!-- NOW:START -->
 
 ```
-   · 10:47 PM                              🌘  waning crescent                 ䷥  38 Kuí — Opposition
-   somewhere along the coast               9% illuminated                      ☲ fire over ☱ lake
-                                           new moon in 3 days                  "differences are not
-      \   /     Clear                      next new moon: May 16                enmity — find the common
-       .-.      60 °F                                                           point"
-    ― (   ) ―   ↘ 7 mph
+   · 5:33 AM                               🌘  waning crescent                 ䷦  39 Jiǎn — Obstruction
+   somewhere along the coast               7% illuminated                      ☵ water over ☶ mountain
+                                           new moon in 3 days                  "the path is hard; turn
+      \   /     Clear                      next new moon: May 16                inward, ask why"
+       .-.      +55(53) °F
+    ― (   ) ―   ↓ 8 mph
        `-’      6 mi
       /   \     0.0 in
 ```
