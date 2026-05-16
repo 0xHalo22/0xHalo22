@@ -3,12 +3,12 @@
 <!-- NOW:START -->
 
 ```
-   · 4:37 PM                               🌑  near new moon                   ䷨  41 Sǔn — Decrease
-   somewhere along the coast               0% illuminated                      ☶ mountain over ☱ lake
-                                           new moon today                      "give something up; what
-      \   /     Sunny                      next new moon: May 16                remains will be enough"
-       .-.      68 °F
-    ― (   ) ―   ↘ 18 mph
+   · 10:33 PM                             🌑  near new moon                    ䷨  41 Sǔn — Decrease
+   somewhere along the coast              0% illuminated                       ☶ mountain over ☱ lake
+                                          first quarter in 7 days              "give something up; what
+      \   /     Clear                     next full moon: May 31                remains will be enough"
+       .-.      +57(55) °F
+    ― (   ) ―   ↘ 14 mph
        `-’      6 mi
       /   \     0.0 in
 ```
