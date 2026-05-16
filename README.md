@@ -3,12 +3,12 @@
 <!-- NOW:START -->
 
 ```
-   · 10:37 PM                              🌘  waning crescent                 ䷧  40 Xiè — Deliverance
-   somewhere along the coast               1% illuminated                      ☳ thunder over ☵ water
-                                           new moon today                      "the storm has passed;
-      \   /     Clear                      next new moon: May 16                resume gently"
-       .-.      +57(53) °F
-    ― (   ) ―   ↓ 16 mph
+   · 5:26 AM                               🌑  near new moon                   ䷨  41 Sǔn — Decrease
+   somewhere along the coast               0% illuminated                      ☶ mountain over ☱ lake
+                                           new moon today                      "give something up; what
+      \   /     Clear                      next new moon: May 16                remains will be enough"
+       .-.      +55(51) °F
+    ― (   ) ―   ↓ 11 mph
        `-’      6 mi
       /   \     0.0 in
 ```
