@@ -3,12 +3,12 @@
 <!-- NOW:START -->
 
 ```
-   · 4:39 PM                              🌒  waxing crescent                  ䷩  42 Yì — Increase
-   somewhere along the coast              1% illuminated                       ☴ wind over ☳ thunder
+   · 10:35 PM                             🌒  waxing crescent                  ䷩  42 Yì — Increase
+   somewhere along the coast              2% illuminated                       ☴ wind over ☳ thunder
                                           first quarter in 6 days              "act now; the wind is at
-      \   /     Sunny                     next full moon: May 31                your back"
-       .-.      66 °F
-    ― (   ) ―   ↘ 14 mph
+      \   /     Clear                     next full moon: May 31                your back"
+       .-.      +57(53) °F
+    ― (   ) ―   ↘ 13 mph
        `-’      6 mi
       /   \     0.0 in
 ```
