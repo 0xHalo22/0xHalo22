@@ -3,12 +3,12 @@
 <!-- NOW:START -->
 
 ```
-   · 10:35 PM                             🌒  waxing crescent                  ䷩  42 Yì — Increase
-   somewhere along the coast              2% illuminated                       ☴ wind over ☳ thunder
-                                          first quarter in 6 days              "act now; the wind is at
-      \   /     Clear                     next full moon: May 31                your back"
-       .-.      +57(53) °F
-    ― (   ) ―   ↘ 13 mph
+   · 5:45 AM                             🌒  waxing crescent                 ䷪  43 Guài — Breakthrough
+   somewhere along the coast             2% illuminated                      ☱ lake over ☰ heaven
+                                         first quarter in 6 days             "say the thing; resolve
+      \   /     Clear                    next full moon: May 31               the standoff openly"
+       .-.      +53(50) °F
+    ― (   ) ―   ↘ 9 mph
        `-’      6 mi
       /   \     0.0 in
 ```
