@@ -3,14 +3,14 @@
 <!-- NOW:START -->
 
 ```
-   · 10:42 PM                            🌒  waxing crescent                 ䷪  43 Guài — Breakthrough
-   somewhere along the coast             5% illuminated                      ☱ lake over ☰ heaven
-                                         first quarter in 5 days             "say the thing; resolve
-      \   /     Clear                    next full moon: May 31               the standoff openly"
-       .-.      +57(55) °F
-    ― (   ) ―   ↘ 8 mph
-       `-’      6 mi
-      /   \     0.0 in
+   · 5:41 AM                             🌒  waxing crescent                ䷫  44 Gòu — Coming to Meet
+   somewhere along the coast             7% illuminated                     ☰ heaven over ☴ wind
+                                         first quarter in 5 days            "something small enters;
+     \  /       Partly cloudy            next full moon: May 31              watch what it grows
+   _ /"".-.     59 °F                                                        into"
+     \_(   ).   ↘ 3 mph
+     /(___(__)  6 mi
+                0.0 in
 ```
 
 <!-- NOW:END -->
