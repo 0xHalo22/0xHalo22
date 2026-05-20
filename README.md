@@ -3,12 +3,12 @@
 <!-- NOW:START -->
 
 ```
-   · 10:47 PM                            🌒  waxing crescent                 ䷫  44 Gòu — Coming to Meet
-   somewhere along the coast             11% illuminated                     ☰ heaven over ☴ wind
-                                         first quarter in 4 days             "something small enters;
-      \   /     Clear                    next full moon: May 31               watch what it grows
-       .-.      62 °F                                                         into"
-    ― (   ) ―   ↘ 8 mph
+   · 5:42 AM                           🌒  waxing crescent               ䷬  45 Cuì — Gathering Together
+   somewhere along the coast           13% illuminated                   ☱ lake over ☷ earth
+                                       first quarter in 4 days           "people gather around
+      \   /     Clear                  next full moon: May 31             purpose; show up"
+       .-.      60 °F
+    ― (   ) ―   ↓ 4 mph
        `-’      6 mi
       /   \     0.0 in
 ```
