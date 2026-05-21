@@ -3,12 +3,12 @@
 <!-- NOW:START -->
 
 ```
-   · 11:28 AM                           🌒  waxing crescent                ䷭  46 Shēng — Pushing Upward
-   somewhere along the coast            23% illuminated                    ☷ earth over ☴ wind
-                                        first quarter in 3 days            "ascend without strain;
+   · 5:22 PM                            🌒  waxing crescent                ䷭  46 Shēng — Pushing Upward
+   somewhere along the coast            25% illuminated                    ☷ earth over ☴ wind
+                                        first quarter in 2 days            "ascend without strain;
       \   /     Sunny                   next full moon: May 31              the way is open"
-       .-.      +71(75) °F
-    ― (   ) ―   ↙ 3 mph
+       .-.      80 °F
+    ― (   ) ―   ↓ 4 mph
        `-’      6 mi
       /   \     0.0 in
 ```
