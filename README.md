@@ -3,14 +3,14 @@
 <!-- NOW:START -->
 
 ```
-   · 5:30 AM                                🌒  waxing crescent                   ䷯  48 Jǐng — The Well
-   somewhere along the coast                40% illuminated                       ☵ water over ☴ wind
+   · 10:55 AM                               🌒  waxing crescent                   ䷯  48 Jǐng — The Well
+   somewhere along the coast                43% illuminated                       ☵ water over ☴ wind
                                             first quarter today                   "the source is steady;
-                Overcast                    next full moon: May 31                 tend the means of
-       .--.     66 °F                                                              access"
-    .-(    ).   ↘ 6 mph
-   (___.__)__)  6 mi
-                0.0 in
+      \   /     Sunny                       next full moon: May 31                 tend the means of
+       .-.      +73(77) °F                                                         access"
+    ― (   ) ―   ↙ 3 mph
+       `-’      6 mi
+      /   \     0.0 in
 ```
 
 <!-- NOW:END -->
