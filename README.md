@@ -3,12 +3,12 @@
 <!-- NOW:START -->
 
 ```
-   · 10:35 PM                               🌒  waxing crescent                   ䷯  48 Jǐng — The Well
-   somewhere along the coast                48% illuminated                       ☵ water over ☴ wind
-                                            first quarter today                   "the source is steady;
-      \   /     Clear                       next full moon: May 31                 tend the means of
-       .-.      64 °F                                                              access"
-    ― (   ) ―   ↘ 9 mph
+   · 5:44 AM                              🌔  waxing gibbous                  ䷰  49 Gé — Revolution
+   somewhere along the coast              51% illuminated                     ☱ lake over ☲ fire
+                                          full moon in 7 days                 "what was must change;
+      \   /     Clear                     next full moon: May 31               the timing now is right"
+       .-.      59 °F
+    ― (   ) ―   ↓ 2 mph
        `-’      6 mi
       /   \     0.0 in
 ```
