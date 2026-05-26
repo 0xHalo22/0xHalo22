@@ -3,14 +3,14 @@
 <!-- NOW:START -->
 
 ```
-   · 10:41 PM                             🌔  waxing gibbous                  ䷱  50 Dǐng — The Cauldron
-   somewhere along the coast              69% illuminated                     ☲ fire over ☴ wind
-                                          full moon in 6 days                 "transformation cooks
-      \   /     Clear                     next full moon: May 31               slowly; do not rush the
-       .-.      +73(77) °F                                                     heat"
-    ― (   ) ―   ↘ 4 mph
-       `-’      6 mi
-      /   \     0.0 in
+   · 5:41 AM                              🌔  waxing gibbous                  ䷲  51 Zhèn — The Arousing
+   somewhere along the coast              71% illuminated                     ☳ thunder over ☳ thunder
+                                          full moon in 5 days                 "the shock arrives; meet
+                Overcast                  next full moon: May 31               it without flinching"
+       .--.     62 °F
+    .-(    ).   ↙ 4 mph
+   (___.__)__)  6 mi
+                0.0 in
 ```
 
 <!-- NOW:END -->
