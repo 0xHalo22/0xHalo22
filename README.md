@@ -3,12 +3,12 @@
 <!-- NOW:START -->
 
 ```
-   · 10:54 PM                             🌔  waxing gibbous                  ䷲  51 Zhèn — The Arousing
-   somewhere along the coast              78% illuminated                     ☳ thunder over ☳ thunder
-                                          full moon in 5 days                 "the shock arrives; meet
-      \   /     Clear                     next full moon: May 31               it without flinching"
-       .-.      80 °F
-    ― (   ) ―   → 3 mph
+   · 5:48 AM                             🌔  waxing gibbous                 ䷳  52 Gèn — Keeping Still
+   somewhere along the coast             81% illuminated                    ☶ mountain over ☶ mountain
+                                         full moon in 4 days                "stop where you are; this
+      \   /     Clear                    next full moon: May 31              is the right place"
+       .-.      68 °F
+    ― (   ) ―   ← 4 mph
        `-’      6 mi
       /   \     0.0 in
 ```
