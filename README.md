@@ -3,12 +3,12 @@
 <!-- NOW:START -->
 
 ```
-   · 10:55 PM                            🌔  waxing gibbous                 ䷳  52 Gèn — Keeping Still
-   somewhere along the coast             86% illuminated                    ☶ mountain over ☶ mountain
-                                         full moon in 4 days                "stop where you are; this
-      \   /     Clear                    next full moon: May 31              is the right place"
-       .-.      +71(77) °F
-    ― (   ) ―   ↘ 7 mph
+   · 5:45 AM                            🌔  waxing gibbous                ䷴  53 Jiàn — Gradual Progress
+   somewhere along the coast            88% illuminated                   ☴ wind over ☶ mountain
+                                        full moon in 3 days               "step by step, like a
+      \   /     Clear                   next full moon: May 31             tree growing on the
+       .-.      66 °F                                                      mountain"
+    ― (   ) ―   ↗ 4 mph
        `-’      6 mi
       /   \     0.0 in
 ```
