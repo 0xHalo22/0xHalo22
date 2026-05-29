@@ -3,12 +3,12 @@
 <!-- NOW:START -->
 
 ```
-   · 10:55 PM                           🌔  waxing gibbous                ䷴  53 Jiàn — Gradual Progress
-   somewhere along the coast            93% illuminated                   ☴ wind over ☶ mountain
-                                        full moon in 3 days               "step by step, like a
-      \   /     Clear                   next full moon: May 31             tree growing on the
-       .-.      68 °F                                                      mountain"
-    ― (   ) ―   ↓ 7 mph
+   · 5:46 AM                         🌔  waxing gibbous             ䷵  54 Guī Mèi — The Marrying Maiden
+   somewhere along the coast         94% illuminated                ☳ thunder over ☱ lake
+                                     full moon in 2 days            "you are not the center
+      \   /     Clear                next full moon: May 31          of this; act with care"
+       .-.      60 °F
+    ― (   ) ―   ↘ 3 mph
        `-’      6 mi
       /   \     0.0 in
 ```
