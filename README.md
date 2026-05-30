@@ -3,10 +3,14 @@
 <!-- NOW:START -->
 
 ```
-   · somewhere along the coast             🌔  waxing gibbous                 ䷶  55 Fēng — Abundance
-   (weather unavailable)                   99% illuminated                    ☳ thunder over ☲ fire
-                                           full moon tomorrow                 "the noon sun; enjoy this
-                                           next full moon: May 31              — it will move"
+   · 4:43 PM                              🌔  waxing gibbous                  ䷶  55 Fēng — Abundance
+   somewhere along the coast              99% illuminated                     ☳ thunder over ☲ fire
+                                          full moon today                     "the noon sun; enjoy this
+      \   /     Sunny                     next full moon: May 31               — it will move"
+       .-.      +77(78) °F
+    ― (   ) ―   ↘ 16 mph
+       `-’      6 mi
+      /   \     0.0 in
 ```
 
 <!-- NOW:END -->
