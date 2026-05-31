@@ -3,12 +3,12 @@
 <!-- NOW:START -->
 
 ```
-   · 11:03 AM                              🌕  near full moon                   ䷷  56 Lǚ — The Wanderer
+   · 4:43 PM                               🌕  near full moon                   ䷷  56 Lǚ — The Wanderer
    somewhere along the coast               100% illuminated                     ☲ fire over ☶ mountain
-                                           full moon today                      "you are a guest here;
-      \   /     Sunny                      next full moon: May 31                travel light, leave
-       .-.      69 °F                                                            clean"
-    ― (   ) ―   ↘ 9 mph
+                                           last quarter in 7 days               "you are a guest here;
+      \   /     Sunny                      next new moon: Jun 15                 travel light, leave
+       .-.      +80(78) °F                                                       clean"
+    ― (   ) ―   ↘ 16 mph
        `-’      6 mi
       /   \     0.0 in
 ```
