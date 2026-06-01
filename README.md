@@ -3,12 +3,12 @@
 <!-- NOW:START -->
 
 ```
-   · 10:36 PM                              🌕  near full moon                   ䷷  56 Lǚ — The Wanderer
-   somewhere along the coast               100% illuminated                     ☲ fire over ☶ mountain
-                                           last quarter in 7 days               "you are a guest here;
-      \   /     Clear                      next new moon: Jun 15                 travel light, leave
-       .-.      66 °F                                                            clean"
-    ― (   ) ―   ↓ 11 mph
+   · 5:54 AM                               🌖  waning gibbous                   ䷸  57 Xùn — The Gentle
+   somewhere along the coast               99% illuminated                      ☴ wind over ☴ wind
+                                           last quarter in 7 days               "small consistent
+      \   /     Clear                      next new moon: Jun 15                 influence beats sudden
+       .-.      62 °F                                                            force"
+    ― (   ) ―   ↘ 8 mph
        `-’      6 mi
       /   \     0.0 in
 ```
