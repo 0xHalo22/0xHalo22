@@ -3,12 +3,12 @@
 <!-- NOW:START -->
 
 ```
-   · 11:08 PM                              🌖  waning gibbous                   ䷹  58 Duì — The Joyous
-   somewhere along the coast               93% illuminated                      ☱ lake over ☱ lake
-                                           last quarter in 5 days               "share what brings you
-      \   /     Clear                      next new moon: Jun 15                 joy; it multiplies"
-       .-.      +60(44) °F
-    ― (   ) ―   ↘ 18 mph
+   · 5:54 AM                               🌖  waning gibbous                   ䷺  59 Huàn — Dispersion
+   somewhere along the coast               92% illuminated                      ☴ wind over ☵ water
+                                           last quarter in 5 days               "what was rigid
+      \   /     Clear                      next new moon: Jun 15                 dissolves; this is
+       .-.      +60(44) °F                                                       mercy"
+    ― (   ) ―   ↓ 15 mph
        `-’      6 mi
       /   \     0.0 in
 ```
