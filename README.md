@@ -3,12 +3,12 @@
 <!-- NOW:START -->
 
 ```
-   · 5:54 AM                                🌖  waning gibbous                   ䷻  60 Jié — Limitation
-   somewhere along the coast                85% illuminated                      ☵ water over ☱ lake
-                                            last quarter in 4 days               "freedom requires a
+   · 11:29 AM                               🌖  waning gibbous                   ䷻  60 Jié — Limitation
+   somewhere along the coast                83% illuminated                      ☵ water over ☱ lake
+                                            last quarter in 3 days               "freedom requires a
      \  /       Partly cloudy               next new moon: Jun 15                 frame; choose yours"
-   _ /"".-.     62 °F
-     \_(   ).   ↘ 10 mph
+   _ /"".-.     66 °F
+     \_(   ).   ↘ 14 mph
      /(___(__)  6 mi
                 0.0 in
 ```
