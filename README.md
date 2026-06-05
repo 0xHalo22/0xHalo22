@@ -3,12 +3,12 @@
 <!-- NOW:START -->
 
 ```
-   · 11:35 AM                           🌖  waning gibbous                ䷼  61 Zhōng Fú — Inner Truth
-   somewhere along the coast            75% illuminated                   ☴ wind over ☱ lake
+   · 5:11 PM                            🌖  waning gibbous                ䷼  61 Zhōng Fú — Inner Truth
+   somewhere along the coast            73% illuminated                   ☴ wind over ☱ lake
                                         last quarter in 2 days            "what you mean is felt;
       \   /     Sunny                   next new moon: Jun 15              speak from the center"
-       .-.      64 °F
-    ― (   ) ―   ↘ 14 mph
+       .-.      69 °F
+    ― (   ) ―   ↘ 16 mph
        `-’      6 mi
       /   \     0.0 in
 ```
