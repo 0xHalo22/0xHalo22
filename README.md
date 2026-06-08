@@ -3,14 +3,14 @@
 <!-- NOW:START -->
 
 ```
-   · 10:42 PM                           🌘  waning crescent              ䷾  63 Jì Jì — After Completion
-   somewhere along the coast            50% illuminated                  ☵ water over ☲ fire
-                                        new moon in 7 days               "the work is done; the
-      \   /     Clear                   next new moon: Jun 15             next thing has not
-       .-.      64 °F                                                     begun"
-    ― (   ) ―   ↘ 14 mph
-       `-’      6 mi
-      /   \     0.0 in
+   · 5:54 AM                           🌘  waning crescent            ䷿  64 Wèi Jì — Before Completion
+   somewhere along the coast           47% illuminated                ☲ fire over ☵ water
+                                       new moon in 7 days             "you are almost there; do
+     \  /       Partly cloudy          next new moon: Jun 15           not falter at the last
+   _ /"".-.     59 °F                                                  step"
+     \_(   ).   ↘ 13 mph
+     /(___(__)  6 mi
+                0.0 in
 ```
 
 <!-- NOW:END -->
