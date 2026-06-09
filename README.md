@@ -3,12 +3,12 @@
 <!-- NOW:START -->
 
 ```
-   · 11:27 AM                              🌘  waning crescent                 ䷀  1 Qián — The Creative
-   somewhere along the coast               34% illuminated                     ☰ heaven over ☰ heaven
+   · 5:14 PM                               🌘  waning crescent                 ䷀  1 Qián — The Creative
+   somewhere along the coast               31% illuminated                     ☰ heaven over ☰ heaven
                                            new moon in 6 days                  "the dragon flies;
       \   /     Sunny                      next new moon: Jun 15                persistence brings
-       .-.      64 °F                                                           reward"
-    ― (   ) ―   ↓ 17 mph
+       .-.      +73(75) °F                                                      reward"
+    ― (   ) ―   ↘ 22 mph
        `-’      6 mi
       /   \     0.0 in
 ```
