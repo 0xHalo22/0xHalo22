@@ -3,12 +3,12 @@
 <!-- NOW:START -->
 
 ```
-   · 10:54 PM                          🌘  waning crescent            ䷿  64 Wèi Jì — Before Completion
-   somewhere along the coast           39% illuminated                ☲ fire over ☵ water
-                                       new moon in 6 days             "you are almost there; do
-     \  /       Partly cloudy          next new moon: Jun 15           not falter at the last
-   _ /"".-.     66 °F                                                  step"
-     \_(   ).   ↘ 15 mph
+   · 5:42 AM                               🌘  waning crescent                ䷀  1 Qián — The Creative
+   somewhere along the coast               36% illuminated                    ☰ heaven over ☰ heaven
+                                           new moon in 6 days                 "the dragon flies;
+     \  /       Partly cloudy              next new moon: Jun 15               persistence brings
+   _ /"".-.     60 °F                                                          reward"
+     \_(   ).   ↓ 17 mph
      /(___(__)  6 mi
                 0.0 in
 ```
