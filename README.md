@@ -3,12 +3,12 @@
 <!-- NOW:START -->
 
 ```
-   · 5:49 AM                               🌘  waning crescent                 ䷄  5 Xū — Waiting
-   somewhere along the coast               5% illuminated                      ☵ water over ☰ heaven
+   · 11:11 AM                              🌘  waning crescent                 ䷄  5 Xū — Waiting
+   somewhere along the coast               4% illuminated                      ☵ water over ☰ heaven
                                            new moon in 2 days                  "patience now is its own
-      \   /     Clear                      next new moon: Jun 15                action"
-       .-.      +71(77) °F
-    ― (   ) ―   ← 3 mph
+      \   /     Sunny                      next new moon: Jun 15                action"
+       .-.      +73(77) °F
+    ― (   ) ―   ↖ 4 mph
        `-’      6 mi
       /   \     0.0 in
 ```
