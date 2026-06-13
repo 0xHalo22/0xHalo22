@@ -3,14 +3,14 @@
 <!-- NOW:START -->
 
 ```
-   · 10:54 PM                                🌘  waning crescent             ䷃  4 Méng — Youthful Folly
-   somewhere along the coast                 6% illuminated                  ☶ mountain over ☵ water
-                                             new moon in 2 days              "the question must be
-   _`/"".-.     Patchy rain nearby           next new moon: Jun 15            asked sincerely or not
-    ,\_(   ).   +78(80) °F                                                    at all"
-     /(___(__)  → 8 mph
-       ‘ ‘ ‘ ‘  6 mi
-      ‘ ‘ ‘ ‘   0.0 in
+   · 5:49 AM                               🌘  waning crescent                 ䷄  5 Xū — Waiting
+   somewhere along the coast               5% illuminated                      ☵ water over ☰ heaven
+                                           new moon in 2 days                  "patience now is its own
+      \   /     Clear                      next new moon: Jun 15                action"
+       .-.      +71(77) °F
+    ― (   ) ―   ← 3 mph
+       `-’      6 mi
+      /   \     0.0 in
 ```
 
 <!-- NOW:END -->
