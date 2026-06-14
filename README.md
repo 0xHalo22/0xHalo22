@@ -3,12 +3,12 @@
 <!-- NOW:START -->
 
 ```
-   · 11:25 AM                              🌘  waning crescent                 ䷅  6 Sòng — Conflict
-   somewhere along the coast               1% illuminated                      ☰ heaven over ☵ water
+   · 4:53 PM                               🌘  waning crescent                 ䷅  6 Sòng — Conflict
+   somewhere along the coast               0% illuminated                      ☰ heaven over ☵ water
                                            new moon today                      "step back; meet halfway
       \   /     Sunny                      next new moon: Jun 15                before things harden"
-       .-.      +75(78) °F
-    ― (   ) ―   ↗ 6 mph
+       .-.      +77(78) °F
+    ― (   ) ―   ↗ 9 mph
        `-’      6 mi
       /   \     0.0 in
 ```
