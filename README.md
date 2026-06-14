@@ -3,12 +3,12 @@
 <!-- NOW:START -->
 
 ```
-   · 10:42 PM                              🌘  waning crescent                 ䷄  5 Xū — Waiting
-   somewhere along the coast               2% illuminated                      ☵ water over ☰ heaven
-                                           new moon tomorrow                   "patience now is its own
-      \   /     Sunny                      next new moon: Jun 15                action"
-       .-.      +73(77) °F
-    ― (   ) ―   → 4 mph
+   · 5:54 AM                               🌘  waning crescent                 ䷅  6 Sòng — Conflict
+   somewhere along the coast               1% illuminated                      ☰ heaven over ☵ water
+                                           new moon tomorrow                   "step back; meet halfway
+      \   /     Clear                      next new moon: Jun 15                before things harden"
+       .-.      69 °F
+    ― (   ) ―   ↑ 3 mph
        `-’      6 mi
       /   \     0.0 in
 ```
