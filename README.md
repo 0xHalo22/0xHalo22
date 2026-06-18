@@ -3,12 +3,12 @@
 <!-- NOW:START -->
 
 ```
-   · 10:56 PM                         🌒  waxing crescent              ䷈  9 Xiǎo Chù — Small Restraint
-   somewhere along the coast          8% illuminated                   ☴ wind over ☰ heaven
-                                      first quarter in 5 days          "small steps; gentle
-      \   /     Sunny                 next full moon: Jun 30            pressure; do not force
-       .-.      69 °F                                                   the hand"
-    ― (   ) ―   ↓ 13 mph
+   · 5:53 AM                              🌒  waxing crescent                  ䷉  10 Lǚ — Treading
+   somewhere along the coast              9% illuminated                       ☰ heaven over ☱ lake
+                                          first quarter in 4 days              "walk carefully past the
+      \   /     Clear                     next full moon: Jun 30                tiger; do not provoke
+       .-.      60 °F                                                           it"
+    ― (   ) ―   ↘ 4 mph
        `-’      6 mi
       /   \     0.0 in
 ```
