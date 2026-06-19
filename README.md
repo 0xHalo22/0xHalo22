@@ -3,12 +3,12 @@
 <!-- NOW:START -->
 
 ```
-   · 10:57 PM                             🌒  waxing crescent                  ䷉  10 Lǚ — Treading
-   somewhere along the coast              14% illuminated                      ☰ heaven over ☱ lake
-                                          first quarter in 4 days              "walk carefully past the
-      \   /     Sunny                     next full moon: Jun 30                tiger; do not provoke
-       .-.      69 °F                                                           it"
-    ― (   ) ―   ↘ 10 mph
+   · 5:54 AM                               🌒  waxing crescent                   ䷊  11 Tài — Peace
+   somewhere along the coast               17% illuminated                       ☷ earth over ☰ heaven
+                                           first quarter in 3 days               "heaven and earth meet;
+      \   /     Clear                      next full moon: Jun 30                 share what you have"
+       .-.      62 °F
+    ― (   ) ―   ↓ 4 mph
        `-’      6 mi
       /   \     0.0 in
 ```
