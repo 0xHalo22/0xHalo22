@@ -3,12 +3,12 @@
 <!-- NOW:START -->
 
 ```
-   · 10:43 PM                             🌒  waxing crescent                  ䷋  12 Pǐ — Standstill
-   somewhere along the coast              32% illuminated                      ☰ heaven over ☷ earth
-                                          first quarter in 2 days              "the channel is blocked;
-      \   /     Clear                     next full moon: Jun 30                wait without resentment"
-       .-.      +71(77) °F
-    ― (   ) ―   ↓ 11 mph
+   · 5:54 AM                             🌒  waxing crescent                ䷌  13 Tóng Rén — Fellowship
+   somewhere along the coast             35% illuminated                    ☰ heaven over ☲ fire
+                                         first quarter tomorrow             "find your people; act in
+      \   /     Clear                    next full moon: Jun 30              the open"
+       .-.      69 °F
+    ― (   ) ―   → 3 mph
        `-’      6 mi
       /   \     0.0 in
 ```
