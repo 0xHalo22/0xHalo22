@@ -3,12 +3,12 @@
 <!-- NOW:START -->
 
 ```
-   · 5:54 AM                             🌒  waxing crescent                ䷌  13 Tóng Rén — Fellowship
-   somewhere along the coast             35% illuminated                    ☰ heaven over ☲ fire
+   · 11:26 AM                            🌒  waxing crescent                ䷌  13 Tóng Rén — Fellowship
+   somewhere along the coast             37% illuminated                    ☰ heaven over ☲ fire
                                          first quarter tomorrow             "find your people; act in
-      \   /     Clear                    next full moon: Jun 30              the open"
-       .-.      69 °F
-    ― (   ) ―   → 3 mph
+      \   /     Sunny                    next full moon: Jun 30              the open"
+       .-.      +77(78) °F
+    ― (   ) ―   ↘ 4 mph
        `-’      6 mi
       /   \     0.0 in
 ```
