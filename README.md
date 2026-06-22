@@ -3,12 +3,12 @@
 <!-- NOW:START -->
 
 ```
-   · 5:55 PM                           🌔  waxing gibbous               ䷍  14 Dà Yǒu — Great Possession
-   somewhere along the coast           51% illuminated                  ☲ fire over ☰ heaven
+   · 10:56 PM                          🌔  waxing gibbous               ䷍  14 Dà Yǒu — Great Possession
+   somewhere along the coast           53% illuminated                  ☲ fire over ☰ heaven
                                        full moon in 7 days              "abundance comes; carry
-      \   /     Sunny                  next full moon: Jun 30            it with humility"
-       .-.      +82(84) °F
-    ― (   ) ―   → 8 mph
+      \   /     Clear                  next full moon: Jun 30            it with humility"
+       .-.      +73(77) °F
+    ― (   ) ―   ↘ 9 mph
        `-’      6 mi
       /   \     0.0 in
 ```
