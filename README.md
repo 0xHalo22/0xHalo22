@@ -3,14 +3,14 @@
 <!-- NOW:START -->
 
 ```
-   · 12:11 PM                          🌒  waxing crescent              ䷍  14 Dà Yǒu — Great Possession
-   somewhere along the coast           48% illuminated                  ☲ fire over ☰ heaven
-                                       first quarter today              "abundance comes; carry
-                Overcast               next full moon: Jun 30            it with humility"
-       .--.     +73(77) °F
-    .-(    ).   ↓ 5 mph
-   (___.__)__)  6 mi
-                0.0 in
+   · 5:55 PM                           🌔  waxing gibbous               ䷍  14 Dà Yǒu — Great Possession
+   somewhere along the coast           51% illuminated                  ☲ fire over ☰ heaven
+                                       full moon in 7 days              "abundance comes; carry
+      \   /     Sunny                  next full moon: Jun 30            it with humility"
+       .-.      +82(84) °F
+    ― (   ) ―   → 8 mph
+       `-’      6 mi
+      /   \     0.0 in
 ```
 
 <!-- NOW:END -->
