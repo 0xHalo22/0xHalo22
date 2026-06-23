@@ -3,14 +3,14 @@
 <!-- NOW:START -->
 
 ```
-   · 11:27 AM                                🌔  waxing gibbous               ䷎  15 Qiān — Modesty
-   somewhere along the coast                 58% illuminated                  ☷ earth over ☶ mountain
-                                             full moon in 7 days              "the high makes itself
-   _`/"".-.     Patchy rain nearby           next full moon: Jun 30            low; this is durable"
-    ,\_(   ).   +73(77) °F
-     /(___(__)  ↖ 2 mph
-       ‘ ‘ ‘ ‘  6 mi
-      ‘ ‘ ‘ ‘   0.0 in
+   · 5:09 PM                              🌔  waxing gibbous                  ䷎  15 Qiān — Modesty
+   somewhere along the coast              61% illuminated                     ☷ earth over ☶ mountain
+                                          full moon in 6 days                 "the high makes itself
+      \   /     Sunny                     next full moon: Jun 30               low; this is durable"
+       .-.      +80(82) °F
+    ― (   ) ―   ↗ 11 mph
+       `-’      6 mi
+      /   \     0.0 in
 ```
 
 <!-- NOW:END -->
