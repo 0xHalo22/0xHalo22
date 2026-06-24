@@ -3,14 +3,14 @@
 <!-- NOW:START -->
 
 ```
-   · 10:49 PM                             🌔  waxing gibbous                  ䷎  15 Qiān — Modesty
-   somewhere along the coast              63% illuminated                     ☷ earth over ☶ mountain
-                                          full moon in 6 days                 "the high makes itself
-      \   /     Clear                     next full moon: Jun 30               low; this is durable"
-       .-.      +71(77) °F
-    ― (   ) ―   → 6 mph
-       `-’      6 mi
-      /   \     0.0 in
+   · 5:43 AM                               🌔  waxing gibbous                  ䷏  16 Yù — Enthusiasm
+   somewhere along the coast               66% illuminated                     ☳ thunder over ☷ earth
+                                           full moon in 6 days                 "the moment is buoyant;
+     \  /       Partly cloudy              next full moon: Jun 30               ride it but do not lose
+   _ /"".-.     66 °F                                                           your seat"
+     \_(   ).   ↑ 4 mph
+     /(___(__)  6 mi
+                0.0 in
 ```
 
 <!-- NOW:END -->
