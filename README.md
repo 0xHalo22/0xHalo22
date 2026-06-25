@@ -3,12 +3,12 @@
 <!-- NOW:START -->
 
 ```
-   · 11:19 AM                              🌔  waxing gibbous                  ䷐  17 Suí — Following
-   somewhere along the coast               78% illuminated                     ☱ lake over ☳ thunder
-                                           full moon in 5 days                 "follow the current — but
+   · 5:06 PM                               🌔  waxing gibbous                  ䷐  17 Suí — Following
+   somewhere along the coast               80% illuminated                     ☱ lake over ☳ thunder
+                                           full moon in 4 days                 "follow the current — but
      \  /       Partly cloudy              next full moon: Jun 30               choose which current"
-   _ /"".-.     69 °F
-     \_(   ).   ↑ 13 mph
+   _ /"".-.     +73(77) °F
+     \_(   ).   ↑ 16 mph
      /(___(__)  6 mi
                 0.0 in
 ```
