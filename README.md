@@ -3,14 +3,14 @@
 <!-- NOW:START -->
 
 ```
-   · 10:56 AM                              🌔  waxing gibbous                  ䷒  19 Lín — Approach
-   somewhere along the coast               92% illuminated                     ☷ earth over ☱ lake
-                                           full moon in 3 days                 "spring approaches; meet
-     \  /       Partly cloudy              next full moon: Jun 30               it halfway"
-   _ /"".-.     68 °F
-     \_(   ).   ↘ 3 mph
-     /(___(__)  6 mi
-                0.0 in
+   · 4:43 PM                               🌔  waxing gibbous                   ䷒  19 Lín — Approach
+   somewhere along the coast               94% illuminated                      ☷ earth over ☱ lake
+                                           full moon in 2 days                  "spring approaches; meet
+      \   /     Sunny                      next full moon: Jun 30                it halfway"
+       .-.      +78(80) °F
+    ― (   ) ―   → 11 mph
+       `-’      6 mi
+      /   \     0.0 in
 ```
 
 <!-- NOW:END -->
