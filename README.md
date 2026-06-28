@@ -3,12 +3,12 @@
 <!-- NOW:START -->
 
 ```
-   · 11:11 AM                            🌔  waxing gibbous                 ䷓  20 Guān — Contemplation
-   somewhere along the coast             97% illuminated                    ☴ wind over ☷ earth
-                                         full moon in 2 days                "watch first, act later"
+   · 4:43 PM                             🌔  waxing gibbous                 ䷓  20 Guān — Contemplation
+   somewhere along the coast             98% illuminated                    ☴ wind over ☷ earth
+                                         full moon tomorrow                 "watch first, act later"
       \   /     Sunny                    next full moon: Jun 30
-       .-.      69 °F
-    ― (   ) ―   ↘ 11 mph
+       .-.      +78(80) °F
+    ― (   ) ―   ↘ 17 mph
        `-’      6 mi
       /   \     0.0 in
 ```
