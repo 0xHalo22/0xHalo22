@@ -3,12 +3,12 @@
 <!-- NOW:START -->
 
 ```
-   · 5:08 PM                               🌖  waning gibbous                   ䷕  22 Bì — Grace
-   somewhere along the coast               100% illuminated                     ☶ mountain over ☲ fire
+   · 10:47 PM                              🌖  waning gibbous                   ䷕  22 Bì — Grace
+   somewhere along the coast               99% illuminated                      ☶ mountain over ☲ fire
                                            last quarter in 7 days               "form serves substance;
       \   /     Sunny                      next new moon: Jul 14                 do not mistake one for
-       .-.      84 °F                                                            the other"
-    ― (   ) ―   ↘ 13 mph
+       .-.      69 °F                                                            the other"
+    ― (   ) ―   ↘ 11 mph
        `-’      6 mi
       /   \     0.0 in
 ```
