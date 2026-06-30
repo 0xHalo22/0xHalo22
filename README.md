@@ -3,12 +3,12 @@
 <!-- NOW:START -->
 
 ```
-   · 10:45 PM                           🌕  near full moon                ䷔  21 Shì Kè — Biting Through
-   somewhere along the coast            100% illuminated                  ☲ fire over ☳ thunder
-                                        full moon today                   "an obstacle remains;
-      \   /     Sunny                   next full moon: Jun 30             chew through it without
-       .-.      69 °F                                                      rage"
-    ― (   ) ―   ↘ 14 mph
+   · 5:41 AM                               🌕  near full moon                   ䷕  22 Bì — Grace
+   somewhere along the coast               100% illuminated                     ☶ mountain over ☲ fire
+                                           last quarter in 7 days               "form serves substance;
+      \   /     Clear                      next new moon: Jul 14                 do not mistake one for
+       .-.      64 °F                                                            the other"
+    ― (   ) ―   ↘ 6 mph
        `-’      6 mi
       /   \     0.0 in
 ```
