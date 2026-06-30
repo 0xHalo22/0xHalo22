@@ -3,12 +3,12 @@
 <!-- NOW:START -->
 
 ```
-   · 5:41 AM                               🌕  near full moon                   ䷕  22 Bì — Grace
+   · 11:26 AM                              🌕  near full moon                   ䷕  22 Bì — Grace
    somewhere along the coast               100% illuminated                     ☶ mountain over ☲ fire
                                            last quarter in 7 days               "form serves substance;
-      \   /     Clear                      next new moon: Jul 14                 do not mistake one for
-       .-.      64 °F                                                            the other"
-    ― (   ) ―   ↘ 6 mph
+      \   /     Sunny                      next new moon: Jul 14                 do not mistake one for
+       .-.      69 °F                                                            the other"
+    ― (   ) ―   ↓ 8 mph
        `-’      6 mi
       /   \     0.0 in
 ```
