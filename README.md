@@ -3,12 +3,12 @@
 <!-- NOW:START -->
 
 ```
-   · 11:18 PM                              🌖  waning gibbous                   ䷗  24 Fù — Return
-   somewhere along the coast               91% illuminated                      ☷ earth over ☳ thunder
-                                           last quarter in 4 days               "what was lost is coming
-      \   /     Clear                      next new moon: Jul 14                 back; do not chase it"
-       .-.      91 °F
-    ― (   ) ―   ↘ 7 mph
+   · 7:41 AM                              🌖  waning gibbous                  ䷘  25 Wú Wàng — Innocence
+   somewhere along the coast              89% illuminated                     ☰ heaven over ☳ thunder
+                                          last quarter in 4 days              "act without ulterior
+      \   /     Sunny                     next new moon: Jul 14                motive; the path will
+       .-.      +73(75) °F                                                     hold"
+    ― (   ) ―   ↙ 9 mph
        `-’      6 mi
       /   \     0.0 in
 ```
