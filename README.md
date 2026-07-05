@@ -3,12 +3,12 @@
 <!-- NOW:START -->
 
 ```
-   · 5:17 PM                             🌖  waning gibbous                 ䷚  27 Yí — Nourishment
-   somewhere along the coast             68% illuminated                    ☶ mountain over ☳ thunder
-                                         last quarter in 2 days             "watch what you take in —
-      \   /     Sunny                    next new moon: Jul 14               and what you give out"
-       .-.      93 °F
-    ― (   ) ―   ↘ 10 mph
+   · 11:12 PM                             🌖  waning gibbous                 ䷚  27 Yí — Nourishment
+   somewhere along the coast              66% illuminated                    ☶ mountain over ☳ thunder
+                                          last quarter tomorrow              "watch what you take in —
+      \   /     Clear                     next new moon: Jul 14               and what you give out"
+       .-.      +86(87) °F
+    ― (   ) ―   ↓ 6 mph
        `-’      6 mi
       /   \     0.0 in
 ```
