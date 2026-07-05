@@ -3,12 +3,12 @@
 <!-- NOW:START -->
 
 ```
-   · 11:10 PM                          🌖  waning gibbous               ䷙  26 Dà Chù — Great Restraint
-   somewhere along the coast           75% illuminated                  ☶ mountain over ☰ heaven
-                                       last quarter in 2 days           "hold the energy; release
-      \   /     Clear                  next new moon: Jul 14             it only when it serves"
-       .-.      +82(84) °F
-    ― (   ) ―   ↘ 5 mph
+   · 7:49 AM                             🌖  waning gibbous                 ䷚  27 Yí — Nourishment
+   somewhere along the coast             72% illuminated                    ☶ mountain over ☳ thunder
+                                         last quarter in 2 days             "watch what you take in —
+      \   /     Sunny                    next new moon: Jul 14               and what you give out"
+       .-.      +80(82) °F
+    ― (   ) ―   ↙ 2 mph
        `-’      6 mi
       /   \     0.0 in
 ```
