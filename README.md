@@ -3,12 +3,12 @@
 <!-- NOW:START -->
 
 ```
-   · 11:12 PM                             🌖  waning gibbous                 ䷚  27 Yí — Nourishment
-   somewhere along the coast              66% illuminated                    ☶ mountain over ☳ thunder
-                                          last quarter tomorrow              "watch what you take in —
-      \   /     Clear                     next new moon: Jul 14               and what you give out"
-       .-.      +86(87) °F
-    ― (   ) ―   ↓ 6 mph
+   · 8:54 AM                      🌖  waning gibbous         ䷛  28 Dà Guò — Preponderance of the Great
+   somewhere along the coast      61% illuminated            ☱ lake over ☴ wind
+                                  last quarter tomorrow      "the beam bends; act
+      \   /     Sunny             next new moon: Jul 14       before it breaks"
+       .-.      +77(78) °F
+    ― (   ) ―   ↓ 2 mph
        `-’      6 mi
       /   \     0.0 in
 ```
