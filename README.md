@@ -3,12 +3,12 @@
 <!-- NOW:START -->
 
 ```
-   · 8:54 AM                      🌖  waning gibbous         ䷛  28 Dà Guò — Preponderance of the Great
-   somewhere along the coast      61% illuminated            ☱ lake over ☴ wind
-                                  last quarter tomorrow      "the beam bends; act
+   · 1:57 PM                      🌖  waning gibbous         ䷛  28 Dà Guò — Preponderance of the Great
+   somewhere along the coast      59% illuminated            ☱ lake over ☴ wind
+                                  last quarter today         "the beam bends; act
       \   /     Sunny             next new moon: Jul 14       before it breaks"
-       .-.      +77(78) °F
-    ― (   ) ―   ↓ 2 mph
+       .-.      95 °F
+    ― (   ) ―   → 7 mph
        `-’      6 mi
       /   \     0.0 in
 ```
