@@ -3,12 +3,12 @@
 <!-- NOW:START -->
 
 ```
-   · 6:25 PM                                🌘  waning crescent                  ䷜  29 Kǎn — The Abyss
-   somewhere along the coast                47% illuminated                      ☵ water over ☵ water
+   · 11:30 PM                               🌘  waning crescent                  ䷜  29 Kǎn — The Abyss
+   somewhere along the coast                44% illuminated                      ☵ water over ☵ water
                                             new moon in 7 days                   "in the danger, hold to
-      \   /     Sunny                       next new moon: Jul 14                 what is true; do not
-       .-.      86 °F                                                             panic"
-    ― (   ) ―   ↘ 14 mph
+      \   /     Clear                       next new moon: Jul 14                 what is true; do not
+       .-.      68 °F                                                             panic"
+    ― (   ) ―   ↘ 8 mph
        `-’      6 mi
       /   \     0.0 in
 ```
