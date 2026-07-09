@@ -3,12 +3,12 @@
 <!-- NOW:START -->
 
 ```
-   · 11:16 PM                              🌘  waning crescent                 ䷝  30 Lí — Clinging
-   somewhere along the coast               34% illuminated                     ☲ fire over ☲ fire
-                                           new moon in 6 days                  "find what holds you up;
-      \   /     Clear                      next new moon: Jul 14                trust it visibly"
-       .-.      68 °F
-    ― (   ) ―   ↘ 9 mph
+   · 7:53 AM                               🌘  waning crescent                 ䷞  31 Xián — Influence
+   somewhere along the coast               31% illuminated                     ☱ lake over ☶ mountain
+                                           new moon in 6 days                  "feeling moves first; let
+      \   /     Sunny                      next new moon: Jul 14                it lead"
+       .-.      62 °F
+    ― (   ) ―   ↘ 3 mph
        `-’      6 mi
       /   \     0.0 in
 ```
