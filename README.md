@@ -3,12 +3,12 @@
 <!-- NOW:START -->
 
 ```
-   · 11:06 PM                           🌘  waning crescent              ䷡  34 Dà Zhuàng — Great Power
-   somewhere along the coast            4% illuminated                   ☳ thunder over ☰ heaven
-                                        new moon in 2 days               "strength has arrived; do
-      \   /     Clear                   next new moon: Jul 14             not abuse it"
-       .-.      68 °F
-    ― (   ) ―   → 6 mph
+   · 7:29 AM                                🌘  waning crescent                  ䷢  35 Jìn — Progress
+   somewhere along the coast                3% illuminated                       ☲ fire over ☷ earth
+                                            new moon in 2 days                   "the sun rises; act in
+      \   /     Clear                       next new moon: Jul 14                 plain view"
+       .-.      64 °F
+    ― (   ) ―   ↑ 2 mph
        `-’      6 mi
       /   \     0.0 in
 ```
