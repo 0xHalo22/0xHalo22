@@ -3,14 +3,14 @@
 <!-- NOW:START -->
 
 ```
-   · 7:29 AM                                🌘  waning crescent                  ䷢  35 Jìn — Progress
-   somewhere along the coast                3% illuminated                       ☲ fire over ☷ earth
-                                            new moon in 2 days                   "the sun rises; act in
-      \   /     Clear                       next new moon: Jul 14                 plain view"
-       .-.      64 °F
-    ― (   ) ―   ↑ 2 mph
-       `-’      6 mi
-      /   \     0.0 in
+   · 1:16 PM                                 🌘  waning crescent                  ䷢  35 Jìn — Progress
+   somewhere along the coast                 2% illuminated                       ☲ fire over ☷ earth
+                                             new moon tomorrow                    "the sun rises; act in
+     \  /       Partly Cloudy                next new moon: Jul 14                 plain view"
+   _ /"".-.     +75(78) °F
+     \_(   ).   ↗ 8 mph
+     /(___(__)  6 mi
+                0.0 in
 ```
 
 <!-- NOW:END -->
