@@ -3,12 +3,12 @@
 <!-- NOW:START -->
 
 ```
-   · 11:08 PM                               🌘  waning crescent                  ䷢  35 Jìn — Progress
-   somewhere along the coast                1% illuminated                       ☲ fire over ☷ earth
-                                            new moon today                       "the sun rises; act in
-      \   /     Clear                       next new moon: Jul 14                 plain view"
-       .-.      68 °F
-    ― (   ) ―   ↘ 9 mph
+   · 6:39 AM                        🌑  near new moon            ䷣  36 Míng Yí — Darkening of the Light
+   somewhere along the coast        0% illuminated               ☷ earth over ☲ fire
+                                    new moon today               "hide your light a while;
+      \   /     Clear               next new moon: Jul 14         the darkness is brief"
+       .-.      66 °F
+    ― (   ) ―   ↘ 3 mph
        `-’      6 mi
       /   \     0.0 in
 ```
