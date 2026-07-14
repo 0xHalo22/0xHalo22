@@ -3,12 +3,12 @@
 <!-- NOW:START -->
 
 ```
-   · 5:38 PM                        🌑  near new moon            ䷣  36 Míng Yí — Darkening of the Light
-   somewhere along the coast        0% illuminated               ☷ earth over ☲ fire
-                                    new moon today               "hide your light a while;
-      \   /     Sunny               next new moon: Jul 14         the darkness is brief"
-       .-.      +80(82) °F
-    ― (   ) ―   → 12 mph
+   · 11:11 PM                      🌑  near new moon             ䷣  36 Míng Yí — Darkening of the Light
+   somewhere along the coast       0% illuminated                ☷ earth over ☲ fire
+                                   first quarter in 7 days       "hide your light a while;
+      \   /     Clear              next full moon: Jul 29         the darkness is brief"
+       .-.      69 °F
+    ― (   ) ―   ↘ 8 mph
        `-’      6 mi
       /   \     0.0 in
 ```
