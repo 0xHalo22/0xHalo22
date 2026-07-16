@@ -3,12 +3,12 @@
 <!-- NOW:START -->
 
 ```
-   · 5:40 PM                              🌒  waxing crescent                  ䷥  38 Kuí — Opposition
-   somewhere along the coast              4% illuminated                       ☲ fire over ☱ lake
+   · 11:13 PM                             🌒  waxing crescent                  ䷥  38 Kuí — Opposition
+   somewhere along the coast              5% illuminated                       ☲ fire over ☱ lake
                                           first quarter in 5 days              "differences are not
-      \   /     Sunny                     next full moon: Jul 29                enmity — find the common
-       .-.      +82(86) °F                                                      point"
-    ― (   ) ―   → 13 mph
+      \   /     Clear                     next full moon: Jul 29                enmity — find the common
+       .-.      69 °F                                                           point"
+    ― (   ) ―   ↘ 8 mph
        `-’      6 mi
       /   \     0.0 in
 ```
