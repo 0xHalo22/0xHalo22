@@ -3,14 +3,14 @@
 <!-- NOW:START -->
 
 ```
-   · 12:57 PM                              🌒  waxing crescent                  ䷩  42 Yì — Increase
-   somewhere along the coast               33% illuminated                      ☴ wind over ☳ thunder
-                                           first quarter in 2 days              "act now; the wind is at
-     \  /       Partly cloudy              next full moon: Jul 29                your back"
-   _ /"".-.     +77(78) °F
-     \_(   ).   → 8 mph
-     /(___(__)  6 mi
-                0.0 in
+   · 5:43 PM                               🌒  waxing crescent                  ䷩  42 Yì — Increase
+   somewhere along the coast               35% illuminated                      ☴ wind over ☳ thunder
+                                           first quarter tomorrow               "act now; the wind is at
+      \   /     Sunny                      next full moon: Jul 29                your back"
+       .-.      +77(78) °F
+    ― (   ) ―   ↘ 13 mph
+       `-’      6 mi
+      /   \     0.0 in
 ```
 
 <!-- NOW:END -->
