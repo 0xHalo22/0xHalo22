@@ -3,12 +3,12 @@
 <!-- NOW:START -->
 
 ```
-   · 7:03 AM                             🌔  waxing gibbous                 ䷫  44 Gòu — Coming to Meet
-   somewhere along the coast             51% illuminated                    ☰ heaven over ☴ wind
+   · 12:18 PM                            🌔  waxing gibbous                 ䷫  44 Gòu — Coming to Meet
+   somewhere along the coast             53% illuminated                    ☰ heaven over ☴ wind
                                          full moon in 7 days                "something small enters;
-      \   /     Clear                    next full moon: Jul 29              watch what it grows
-       .-.      68 °F                                                        into"
-    ― (   ) ―   ↘ 3 mph
+      \   /     Sunny                    next full moon: Jul 29              watch what it grows
+       .-.      +77(78) °F                                                   into"
+    ― (   ) ―   → 5 mph
        `-’      6 mi
       /   \     0.0 in
 ```
