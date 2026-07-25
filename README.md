@@ -3,14 +3,14 @@
 <!-- NOW:START -->
 
 ```
-   · 11:17 PM                           🌔  waxing gibbous                ䷭  46 Shēng — Pushing Upward
-   somewhere along the coast            78% illuminated                   ☷ earth over ☴ wind
-                                        full moon in 5 days               "ascend without strain;
-      \   /     Clear                   next full moon: Jul 29             the way is open"
-       .-.      69 °F
-    ― (   ) ―   ↘ 12 mph
-       `-’      6 mi
-      /   \     0.0 in
+   · 6:50 AM                                🌔  waxing gibbous                   ䷮  47 Kùn — Oppression
+   somewhere along the coast                80% illuminated                      ☱ lake over ☵ water
+                                            full moon in 4 days                  "exhaustion is real; do
+     \  /       Partly cloudy               next full moon: Jul 29                less, not more"
+   _ /"".-.     68 °F
+     \_(   ).   ↘ 8 mph
+     /(___(__)  6 mi
+                0.0 in
 ```
 
 <!-- NOW:END -->
