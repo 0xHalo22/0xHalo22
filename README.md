@@ -3,12 +3,12 @@
 <!-- NOW:START -->
 
 ```
-   · 11:16 PM                             🌔  waxing gibbous                  ䷰  49 Gé — Revolution
-   somewhere along the coast              97% illuminated                     ☱ lake over ☲ fire
-                                          full moon in 2 days                 "what was must change;
-      \   /     Clear                     next full moon: Jul 29               the timing now is right"
-       .-.      +77(80) °F
-    ― (   ) ―   ↘ 6 mph
+   · 7:02 AM                              🌔  waxing gibbous                  ䷱  50 Dǐng — The Cauldron
+   somewhere along the coast              98% illuminated                     ☲ fire over ☴ wind
+                                          full moon tomorrow                  "transformation cooks
+      \   /     Clear                     next full moon: Jul 29               slowly; do not rush the
+       .-.      +68(59) °F                                                     heat"
+    ― (   ) ―   ↘ 3 mph
        `-’      6 mi
       /   \     0.0 in
 ```
