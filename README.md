@@ -3,12 +3,12 @@
 <!-- NOW:START -->
 
 ```
-   · 7:02 AM                              🌔  waxing gibbous                  ䷱  50 Dǐng — The Cauldron
-   somewhere along the coast              98% illuminated                     ☲ fire over ☴ wind
+   · 12:26 PM                             🌔  waxing gibbous                  ䷱  50 Dǐng — The Cauldron
+   somewhere along the coast              99% illuminated                     ☲ fire over ☴ wind
                                           full moon tomorrow                  "transformation cooks
-      \   /     Clear                     next full moon: Jul 29               slowly; do not rush the
-       .-.      +68(59) °F                                                     heat"
-    ― (   ) ―   ↘ 3 mph
+      \   /     Sunny                     next full moon: Jul 29               slowly; do not rush the
+       .-.      +77(78) °F                                                     heat"
+    ― (   ) ―   ↘ 2 mph
        `-’      6 mi
       /   \     0.0 in
 ```
