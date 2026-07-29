@@ -3,12 +3,12 @@
 <!-- NOW:START -->
 
 ```
-   · 5:38 PM                              🌕  near full moon                  ䷲  51 Zhèn — The Arousing
+   · 11:11 PM                             🌕  near full moon                  ䷲  51 Zhèn — The Arousing
    somewhere along the coast              100% illuminated                    ☳ thunder over ☳ thunder
                                           last quarter in 7 days              "the shock arrives; meet
-      \   /     Sunny                     next new moon: Aug 13                it without flinching"
-       .-.      +82(84) °F
-    ― (   ) ―   ↘ 13 mph
+      \   /     Clear                     next new moon: Aug 13                it without flinching"
+       .-.      +69(55) °F
+    ― (   ) ―   ↘ 12 mph
        `-’      6 mi
       /   \     0.0 in
 ```
