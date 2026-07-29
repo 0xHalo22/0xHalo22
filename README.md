@@ -3,12 +3,12 @@
 <!-- NOW:START -->
 
 ```
-   · 11:16 PM                             🌔  waxing gibbous                  ䷱  50 Dǐng — The Cauldron
-   somewhere along the coast              100% illuminated                    ☲ fire over ☴ wind
-                                          full moon today                     "transformation cooks
-      \   /     Clear                     next full moon: Jul 29               slowly; do not rush the
-       .-.      +69(59) °F                                                     heat"
-    ― (   ) ―   ↘ 6 mph
+   · 7:06 AM                              🌕  near full moon                  ䷲  51 Zhèn — The Arousing
+   somewhere along the coast              100% illuminated                    ☳ thunder over ☳ thunder
+                                          full moon today                     "the shock arrives; meet
+      \   /     Clear                     next full moon: Jul 29               it without flinching"
+       .-.      +66(57) °F
+    ― (   ) ―   ↘ 4 mph
        `-’      6 mi
       /   \     0.0 in
 ```
