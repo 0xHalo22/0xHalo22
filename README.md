@@ -3,12 +3,12 @@
 <!-- NOW:START -->
 
 ```
-   · 11:11 PM                             🌕  near full moon                  ䷲  51 Zhèn — The Arousing
-   somewhere along the coast              100% illuminated                    ☳ thunder over ☳ thunder
-                                          last quarter in 7 days              "the shock arrives; meet
-      \   /     Clear                     next new moon: Aug 13                it without flinching"
-       .-.      +69(55) °F
-    ― (   ) ―   ↘ 12 mph
+   · 6:57 AM                             🌖  waning gibbous                 ䷳  52 Gèn — Keeping Still
+   somewhere along the coast             99% illuminated                    ☶ mountain over ☶ mountain
+                                         last quarter in 7 days             "stop where you are; this
+      \   /     Clear                    next new moon: Aug 13               is the right place"
+       .-.      +62(53) °F
+    ― (   ) ―   ↓ 4 mph
        `-’      6 mi
       /   \     0.0 in
 ```
