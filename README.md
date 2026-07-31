@@ -3,12 +3,12 @@
 <!-- NOW:START -->
 
 ```
-   · 7:22 AM                            🌖  waning gibbous                ䷴  53 Jiàn — Gradual Progress
-   somewhere along the coast            97% illuminated                   ☴ wind over ☶ mountain
-                                        last quarter in 6 days            "step by step, like a
-      \   /     Clear                   next new moon: Aug 13              tree growing on the
-       .-.      +64(62) °F                                                 mountain"
-    ― (   ) ―   ↘ 7 mph
+   · 12:34 PM                           🌖  waning gibbous                ䷴  53 Jiàn — Gradual Progress
+   somewhere along the coast            96% illuminated                   ☴ wind over ☶ mountain
+                                        last quarter in 5 days            "step by step, like a
+      \   /     Sunny                   next new moon: Aug 13              tree growing on the
+       .-.      +75(73) °F                                                 mountain"
+    ― (   ) ―   ↓ 8 mph
        `-’      6 mi
       /   \     0.0 in
 ```
