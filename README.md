@@ -3,14 +3,14 @@
 <!-- NOW:START -->
 
 ```
-   · 11:09 PM                             🌖  waning gibbous                  ䷶  55 Fēng — Abundance
-   somewhere along the coast              80% illuminated                     ☳ thunder over ☲ fire
-                                          last quarter in 3 days              "the noon sun; enjoy this
-      \   /     Clear                     next new moon: Aug 13                — it will move"
-       .-.      68 °F
-    ― (   ) ―   ↘ 8 mph
-       `-’      6 mi
-      /   \     0.0 in
+   · 7:33 AM                               🌖  waning gibbous                  ䷷  56 Lǚ — The Wanderer
+   somewhere along the coast               77% illuminated                     ☲ fire over ☶ mountain
+                                           last quarter in 3 days              "you are a guest here;
+     \  /       Partly Cloudy              next new moon: Aug 13                travel light, leave
+   _ /"".-.     +68(69) °F                                                      clean"
+     \_(   ).   → 3 mph
+     /(___(__)  6 mi
+                0.0 in
 ```
 
 <!-- NOW:END -->
