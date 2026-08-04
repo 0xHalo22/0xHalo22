@@ -3,12 +3,12 @@
 <!-- NOW:START -->
 
 ```
-   · 11:16 PM                              🌖  waning gibbous                   ䷷  56 Lǚ — The Wanderer
-   somewhere along the coast               71% illuminated                      ☲ fire over ☶ mountain
-                                           last quarter in 2 days               "you are a guest here;
-      \   /     Clear                      next new moon: Aug 13                 travel light, leave
-       .-.      69 °F                                                            clean"
-    ― (   ) ―   → 7 mph
+   · 7:03 AM                               🌖  waning gibbous                   ䷸  57 Xùn — The Gentle
+   somewhere along the coast               68% illuminated                      ☴ wind over ☴ wind
+                                           last quarter in 2 days               "small consistent
+      \   /     Clear                      next new moon: Aug 13                 influence beats sudden
+       .-.      +68(69) °F                                                       force"
+    ― (   ) ―   ↘ 3 mph
        `-’      6 mi
       /   \     0.0 in
 ```
