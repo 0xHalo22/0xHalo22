@@ -3,14 +3,14 @@
 <!-- NOW:START -->
 
 ```
-   · 11:21 PM                               🌖  waning gibbous                   ䷸  57 Xùn — The Gentle
-   somewhere along the coast                61% illuminated                      ☴ wind over ☴ wind
-                                            last quarter tomorrow                "small consistent
-      \   /     Clear                       next new moon: Aug 13                 influence beats sudden
-       .-.      69 °F                                                             force"
-    ― (   ) ―   ↘ 9 mph
-       `-’      6 mi
-      /   \     0.0 in
+   · 7:00 AM                                🌖  waning gibbous                  ䷹  58 Duì — The Joyous
+   somewhere along the coast                57% illuminated                     ☱ lake over ☱ lake
+                                            last quarter today                  "share what brings you
+     \  /       Partly Cloudy               next new moon: Aug 13                joy; it multiplies"
+   _ /"".-.     +68(69) °F
+     \_(   ).   ↘ 6 mph
+     /(___(__)  6 mi
+                0.0 in
 ```
 
 <!-- NOW:END -->
