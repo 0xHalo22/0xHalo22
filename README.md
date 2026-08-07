@@ -3,12 +3,12 @@
 <!-- NOW:START -->
 
 ```
-   · 12:32 PM                              🌘  waning crescent                 ䷺  59 Huàn — Dispersion
-   somewhere along the coast               44% illuminated                     ☴ wind over ☵ water
-                                           new moon in 7 days                  "what was rigid
-      \   /     Sunny                      next new moon: Aug 13                dissolves; this is
-       .-.      +77(73) °F                                                      mercy"
-    ― (   ) ―   ↘ 14 mph
+   · 2:01 AM                                🌘  waning crescent                  ䷻  60 Jié — Limitation
+   somewhere along the coast                38% illuminated                      ☵ water over ☱ lake
+                                            new moon in 6 days                   "freedom requires a
+      \   /     Clear                       next new moon: Aug 13                 frame; choose yours"
+       .-.      +68(66) °F
+    ― (   ) ―   ↘ 8 mph
        `-’      6 mi
       /   \     0.0 in
 ```
