@@ -3,12 +3,12 @@
 <!-- NOW:START -->
 
 ```
-   · 6:01 AM                                🌘  waning crescent                  ䷻  60 Jié — Limitation
-   somewhere along the coast                37% illuminated                      ☵ water over ☱ lake
+   · 11:09 AM                               🌘  waning crescent                  ䷻  60 Jié — Limitation
+   somewhere along the coast                34% illuminated                      ☵ water over ☱ lake
                                             new moon in 6 days                   "freedom requires a
-      \   /     Clear                       next new moon: Aug 13                 frame; choose yours"
-       .-.      +66(68) °F
-    ― (   ) ―   ↘ 4 mph
+      \   /     Sunny                       next new moon: Aug 13                 frame; choose yours"
+       .-.      71 °F
+    ― (   ) ―   ↘ 8 mph
        `-’      6 mi
       /   \     0.0 in
 ```
