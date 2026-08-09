@@ -3,12 +3,12 @@
 <!-- NOW:START -->
 
 ```
-   · 10:44 PM                            🌘  waning crescent               ䷼  61 Zhōng Fú — Inner Truth
-   somewhere along the coast             21% illuminated                   ☴ wind over ☱ lake
-                                         new moon in 4 days                "what you mean is felt;
-      \   /     Clear                    next new moon: Aug 13              speak from the center"
-       .-.      71 °F
-    ― (   ) ―   ↘ 11 mph
+   · 5:35 AM                            🌘  waning crescent              ䷽  62 Xiǎo Guò — Small Excess
+   somewhere along the coast            18% illuminated                  ☳ thunder over ☶ mountain
+                                        new moon in 4 days               "be a little more careful
+      \   /     Clear                   next new moon: Aug 13             than usual today"
+       .-.      +68(69) °F
+    ― (   ) ―   ↘ 5 mph
        `-’      6 mi
       /   \     0.0 in
 ```
