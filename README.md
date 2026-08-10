@@ -3,14 +3,14 @@
 <!-- NOW:START -->
 
 ```
-   · 10:47 PM                           🌘  waning crescent              ䷽  62 Xiǎo Guò — Small Excess
-   somewhere along the coast            13% illuminated                  ☳ thunder over ☶ mountain
-                                        new moon in 3 days               "be a little more careful
-      \   /     Clear                   next new moon: Aug 13             than usual today"
-       .-.      +71(68) °F
-    ― (   ) ―   ↘ 13 mph
-       `-’      6 mi
-      /   \     0.0 in
+   · 5:52 AM                            🌘  waning crescent             ䷾  63 Jì Jì — After Completion
+   somewhere along the coast            11% illuminated                 ☵ water over ☲ fire
+                                        new moon in 3 days              "the work is done; the
+     \  /       Partly Cloudy           next new moon: Aug 13            next thing has not
+   _ /"".-.     +68(69) °F                                               begun"
+     \_(   ).   ↘ 5 mph
+     /(___(__)  6 mi
+                0.0 in
 ```
 
 <!-- NOW:END -->
