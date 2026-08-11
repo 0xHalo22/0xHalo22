@@ -3,12 +3,12 @@
 <!-- NOW:START -->
 
 ```
-   · 5:38 AM                           🌘  waning crescent             ䷿  64 Wèi Jì — Before Completion
-   somewhere along the coast           5% illuminated                  ☲ fire over ☵ water
+   · 11:09 AM                          🌘  waning crescent             ䷿  64 Wèi Jì — Before Completion
+   somewhere along the coast           4% illuminated                  ☲ fire over ☵ water
                                        new moon in 2 days              "you are almost there; do
-      \   /     Clear                  next new moon: Aug 13            not falter at the last
-       .-.      +66(68) °F                                              step"
-    ― (   ) ―   ↘ 7 mph
+      \   /     Sunny                  next new moon: Aug 13            not falter at the last
+       .-.      71 °F                                                   step"
+    ― (   ) ―   ↘ 8 mph
        `-’      6 mi
       /   \     0.0 in
 ```
