@@ -3,11 +3,14 @@
 <!-- NOW:START -->
 
 ```
-   · somewhere along the coast          🌘  waning crescent            ䷿  64 Wèi Jì — Before Completion
-   (weather unavailable)                2% illuminated                 ☲ fire over ☵ water
-                                        new moon tomorrow              "you are almost there; do
-                                        next new moon: Aug 13           not falter at the last
-                                                                        step"
+   · 6:00 AM                               🌘  waning crescent                 ䷀  1 Qián — The Creative
+   somewhere along the coast               1% illuminated                      ☰ heaven over ☰ heaven
+                                           new moon tomorrow                   "the dragon flies;
+      \   /     Clear                      next new moon: Aug 13                persistence brings
+       .-.      68 °F                                                           reward"
+    ― (   ) ―   ↓ 3 mph
+       `-’      6 mi
+      /   \     0.0 in
 ```
 
 <!-- NOW:END -->
