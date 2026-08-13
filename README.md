@@ -3,12 +3,12 @@
 <!-- NOW:START -->
 
 ```
-   · 6:03 AM                               🌑  near new moon                   ䷁  2 Kūn — The Receptive
-   somewhere along the coast               0% illuminated                      ☷ earth over ☷ earth
-                                           new moon today                      "yield, follow, accept
-      \   /     Clear                      next new moon: Aug 13                what arrives"
-       .-.      +66(69) °F
-    ― (   ) ―   ↓ 3 mph
+   · 11:20 AM                             🌑  near new moon                    ䷁  2 Kūn — The Receptive
+   somewhere along the coast              0% illuminated                       ☷ earth over ☷ earth
+                                          first quarter in 7 days              "yield, follow, accept
+      \   /     Sunny                     next full moon: Aug 28                what arrives"
+       .-.      75 °F
+    ― (   ) ―   ↘ 6 mph
        `-’      6 mi
       /   \     0.0 in
 ```
