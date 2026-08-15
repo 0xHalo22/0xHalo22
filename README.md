@@ -3,13 +3,13 @@
 <!-- NOW:START -->
 
 ```
-   · 4:53 AM                             🌒  waxing crescent                 ䷃  4 Méng — Youthful Folly
-   somewhere along the coast             4% illuminated                      ☶ mountain over ☵ water
-                                         first quarter in 6 days             "the question must be
-                Cloudy                   next full moon: Aug 28               asked sincerely or not
-       .--.     +69(66) °F                                                    at all"
-    .-(    ).   ↘ 14 mph
-   (___.__)__)  6 mi
+   · 10:39 AM                            🌒  waxing crescent                ䷃  4 Méng — Youthful Folly
+   somewhere along the coast             5% illuminated                     ☶ mountain over ☵ water
+                                         first quarter in 5 days            "the question must be
+     \  /       Partly Cloudy            next full moon: Aug 28              asked sincerely or not
+   _ /"".-.     +73(71) °F                                                   at all"
+     \_(   ).   ↘ 11 mph
+     /(___(__)  6 mi
                 0.0 in
 ```
 
