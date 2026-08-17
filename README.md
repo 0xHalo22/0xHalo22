@@ -3,12 +3,12 @@
 <!-- NOW:START -->
 
 ```
-   · 10:33 PM                             🌒  waxing crescent                  ䷄  5 Xū — Waiting
-   somewhere along the coast              14% illuminated                      ☵ water over ☰ heaven
-                                          first quarter in 4 days              "patience now is its own
-      \   /     Clear                     next full moon: Aug 28                action"
-       .-.      77 °F
-    ― (   ) ―   ↘ 4 mph
+   · 5:01 AM                              🌒  waxing crescent                  ䷅  6 Sòng — Conflict
+   somewhere along the coast              16% illuminated                      ☰ heaven over ☵ water
+                                          first quarter in 4 days              "step back; meet halfway
+      \   /     Clear                     next full moon: Aug 28                before things harden"
+       .-.      +73(75) °F
+    ― (   ) ―   ↙ 2 mph
        `-’      6 mi
       /   \     0.0 in
 ```
