@@ -3,14 +3,14 @@
 <!-- NOW:START -->
 
 ```
-   · 10:39 PM                             🌒  waxing crescent                  ䷅  6 Sòng — Conflict
-   somewhere along the coast              22% illuminated                      ☰ heaven over ☵ water
-                                          first quarter in 3 days              "step back; meet halfway
-                Overcast                  next full moon: Aug 28                before things harden"
-       .--.     +75(78) °F
-    .-(    ).   ↗ 2 mph
-   (___.__)__)  6 mi
-                0.0 in
+   · 4:56 AM                               🌒  waxing crescent                   ䷆  7 Shī — The Army
+   somewhere along the coast               24% illuminated                       ☷ earth over ☵ water
+                                           first quarter in 3 days               "lead from discipline,
+      \   /     Clear                      next full moon: Aug 28                 not from force"
+       .-.      +73(75) °F
+    ― (   ) ―   → 2 mph
+       `-’      6 mi
+      /   \     0.0 in
 ```
 
 <!-- NOW:END -->
