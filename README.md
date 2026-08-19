@@ -3,14 +3,14 @@
 <!-- NOW:START -->
 
 ```
-   · 4:45 PM                             🌒  waxing crescent                ䷇  8 Bǐ — Holding Together
-   somewhere along the coast             39% illuminated                    ☵ water over ☷ earth
-                                         first quarter tomorrow             "stand close to others
-      \   /     Sunny                    next full moon: Aug 28              while it still costs
-       .-.      80 °F                                                        nothing"
-    ― (   ) ―   ↗ 8 mph
-       `-’      6 mi
-      /   \     0.0 in
+   · 10:39 PM                             🌒  waxing crescent                ䷇  8 Bǐ — Holding Together
+   somewhere along the coast              41% illuminated                    ☵ water over ☷ earth
+                                          first quarter today                "stand close to others
+     \  /       Partly Cloudy             next full moon: Aug 28              while it still costs
+   _ /"".-.     +73(75) °F                                                    nothing"
+     \_(   ).   → 6 mph
+     /(___(__)  6 mi
+                0.0 in
 ```
 
 <!-- NOW:END -->
