@@ -3,12 +3,12 @@
 <!-- NOW:START -->
 
 ```
-   · 10:36 PM                              🌒  waxing crescent                   ䷆  7 Shī — The Army
-   somewhere along the coast               31% illuminated                       ☷ earth over ☵ water
-                                           first quarter in 2 days               "lead from discipline,
-      \   /     Clear                      next full moon: Aug 28                 not from force"
-       .-.      +71(73) °F
-    ― (   ) ―   → 8 mph
+   · 4:57 AM                             🌒  waxing crescent                 ䷇  8 Bǐ — Holding Together
+   somewhere along the coast             34% illuminated                     ☵ water over ☷ earth
+                                         first quarter in 2 days             "stand close to others
+      \   /     Clear                    next full moon: Aug 28               while it still costs
+       .-.      +69(73) °F                                                    nothing"
+    ― (   ) ―   ↗ 3 mph
        `-’      6 mi
       /   \     0.0 in
 ```
