@@ -3,12 +3,12 @@
 <!-- NOW:START -->
 
 ```
-   · 10:37 PM                              🌔  waxing gibbous                   ䷉  10 Lǚ — Treading
-   somewhere along the coast               63% illuminated                      ☰ heaven over ☱ lake
-                                           full moon in 6 days                  "walk carefully past the
-      \   /     Clear                      next full moon: Aug 28                tiger; do not provoke
-       .-.      +64(60) °F                                                       it"
-    ― (   ) ―   ↘ 10 mph
+   · 4:55 AM                               🌔  waxing gibbous                   ䷊  11 Tài — Peace
+   somewhere along the coast               65% illuminated                      ☷ earth over ☰ heaven
+                                           full moon in 6 days                  "heaven and earth meet;
+      \   /     Clear                      next full moon: Aug 28                share what you have"
+       .-.      +62(60) °F
+    ― (   ) ―   ↘ 6 mph
        `-’      6 mi
       /   \     0.0 in
 ```
