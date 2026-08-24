@@ -3,12 +3,12 @@
 <!-- NOW:START -->
 
 ```
-   · 10:34 PM                                🌔  waxing gibbous                ䷋  12 Pǐ — Standstill
-   somewhere along the coast                 81% illuminated                   ☰ heaven over ☷ earth
-                                             full moon in 4 days               "the channel is blocked;
-   _`/"".-.     Light rain shower            next full moon: Aug 28             wait without resentment"
-    ,\_(   ).   +68(64) °F
-     /(___(__)  ↑ 13 mph
+   · 5:03 AM                                🌔  waxing gibbous              ䷌  13 Tóng Rén — Fellowship
+   somewhere along the coast                84% illuminated                 ☰ heaven over ☲ fire
+                                            full moon in 4 days             "find your people; act in
+   _`/"".-.     Patchy rain nearby          next full moon: Aug 28           the open"
+    ,\_(   ).   +66(64) °F
+     /(___(__)  ↑ 14 mph
        ‘ ‘ ‘ ‘  6 mi
       ‘ ‘ ‘ ‘   0.0 in
 ```
