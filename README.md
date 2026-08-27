@@ -3,14 +3,14 @@
 <!-- NOW:START -->
 
 ```
-   · 1:47 AM                                  🌔  waxing gibbous                ䷏  16 Yù — Enthusiasm
-   somewhere along the coast                  99% illuminated                   ☳ thunder over ☷ earth
-                                              full moon tomorrow                "the moment is buoyant;
-   _`/"".-.     Patchy rain nearby            next full moon: Aug 28             ride it but do not lose
-    ,\_(   ).   +64(62) °F                                                       your seat"
-     /(___(__)  ↗ 8 mph
-       ‘ ‘ ‘ ‘  6 mi
-      ‘ ‘ ‘ ‘   0.0 in
+   · 3:10 PM                               🌕  near full moon                   ䷏  16 Yù — Enthusiasm
+   somewhere along the coast               100% illuminated                     ☳ thunder over ☷ earth
+                                           full moon today                      "the moment is buoyant;
+      \   /     Sunny                      next full moon: Aug 28                ride it but do not lose
+       .-.      +71(64) °F                                                       your seat"
+    ― (   ) ―   → 13 mph
+       `-’      6 mi
+      /   \     0.0 in
 ```
 
 <!-- NOW:END -->
