@@ -3,12 +3,12 @@
 <!-- NOW:START -->
 
 ```
-   · 5:33 PM                                 🌔  waxing gibbous               ䷎  15 Qiān — Modesty
-   somewhere along the coast                 98% illuminated                  ☷ earth over ☶ mountain
-                                             full moon tomorrow               "the high makes itself
-   _`/"".-.     Patchy rain nearby           next full moon: Aug 28            low; this is durable"
-    ,\_(   ).   +73(68) °F
-     /(___(__)  → 13 mph
+   · 1:47 AM                                  🌔  waxing gibbous                ䷏  16 Yù — Enthusiasm
+   somewhere along the coast                  99% illuminated                   ☳ thunder over ☷ earth
+                                              full moon tomorrow                "the moment is buoyant;
+   _`/"".-.     Patchy rain nearby            next full moon: Aug 28             ride it but do not lose
+    ,\_(   ).   +64(62) °F                                                       your seat"
+     /(___(__)  ↗ 8 mph
        ‘ ‘ ‘ ‘  6 mi
       ‘ ‘ ‘ ‘   0.0 in
 ```
