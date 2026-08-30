@@ -3,12 +3,12 @@
 <!-- NOW:START -->
 
 ```
-   · 7:37 PM                               🌖  waning gibbous                   ䷒  19 Lín — Approach
-   somewhere along the coast               92% illuminated                      ☷ earth over ☱ lake
-                                           last quarter in 5 days               "spring approaches; meet
-      \   /     Sunny                      next new moon: Sep 11                 it halfway"
-       .-.      +73(68) °F
-    ― (   ) ―   ↘ 14 mph
+   · 12:29 AM                            🌖  waning gibbous                 ䷓  20 Guān — Contemplation
+   somewhere along the coast             91% illuminated                    ☴ wind over ☷ earth
+                                         last quarter in 4 days             "watch first, act later"
+      \   /     Clear                    next new moon: Sep 11
+       .-.      +66(62) °F
+    ― (   ) ―   ↓ 10 mph
        `-’      6 mi
       /   \     0.0 in
 ```
