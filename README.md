@@ -3,14 +3,14 @@
 <!-- NOW:START -->
 
 ```
-   · 9:49 PM                              🌖  waning gibbous                 ䷓  20 Guān — Contemplation
-   somewhere along the coast              85% illuminated                    ☴ wind over ☷ earth
-                                          last quarter in 4 days             "watch first, act later"
-     \  /       Partly Cloudy             next new moon: Sep 11
-   _ /"".-.     +68(62) °F
-     \_(   ).   ↘ 15 mph
-     /(___(__)  6 mi
-                0.0 in
+   · 1:36 AM                            🌖  waning gibbous                ䷔  21 Shì Kè — Biting Through
+   somewhere along the coast            83% illuminated                   ☲ fire over ☳ thunder
+                                        last quarter in 3 days            "an obstacle remains;
+      \   /     Clear                   next new moon: Sep 11              chew through it without
+       .-.      +64(60) °F                                                 rage"
+    ― (   ) ―   ↘ 10 mph
+       `-’      6 mi
+      /   \     0.0 in
 ```
 
 <!-- NOW:END -->
