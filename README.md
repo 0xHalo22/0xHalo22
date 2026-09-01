@@ -3,12 +3,12 @@
 <!-- NOW:START -->
 
 ```
-   · 7:29 PM                            🌖  waning gibbous                ䷔  21 Shì Kè — Biting Through
-   somewhere along the coast            77% illuminated                   ☲ fire over ☳ thunder
-                                        last quarter in 3 days            "an obstacle remains;
-      \   /     Sunny                   next new moon: Sep 11              chew through it without
-       .-.      +71(64) °F                                                 rage"
-    ― (   ) ―   ↘ 15 mph
+   · 12:17 AM                              🌖  waning gibbous                   ䷕  22 Bì — Grace
+   somewhere along the coast               75% illuminated                      ☶ mountain over ☲ fire
+                                           last quarter in 3 days               "form serves substance;
+      \   /     Clear                      next new moon: Sep 11                 do not mistake one for
+       .-.      +64(60) °F                                                       the other"
+    ― (   ) ―   ↘ 11 mph
        `-’      6 mi
       /   \     0.0 in
 ```
