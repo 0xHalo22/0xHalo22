@@ -3,12 +3,12 @@
 <!-- NOW:START -->
 
 ```
-   · 7:37 PM                              🌖  waning gibbous                 ䷖  23 Bō — Stripping Away
-   somewhere along the coast              57% illuminated                    ☶ mountain over ☷ earth
-                                          last quarter today                 "the old falls; let it"
-      \   /     Sunny                     next new moon: Sep 11
-       .-.      +89(86) °F
-    ― (   ) ―   → 7 mph
+   · 12:16 AM                              🌖  waning gibbous                  ䷗  24 Fù — Return
+   somewhere along the coast               55% illuminated                     ☷ earth over ☳ thunder
+                                           last quarter today                  "what was lost is coming
+      \   /     Clear                      next new moon: Sep 11                back; do not chase it"
+       .-.      84 °F
+    ― (   ) ―   ↘ 2 mph
        `-’      6 mi
       /   \     0.0 in
 ```
