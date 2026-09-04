@@ -3,12 +3,12 @@
 <!-- NOW:START -->
 
 ```
-   · 2:31 PM                               🌘  waning crescent                 ䷗  24 Fù — Return
-   somewhere along the coast               49% illuminated                     ☷ earth over ☳ thunder
+   · 7:23 PM                               🌘  waning crescent                 ䷗  24 Fù — Return
+   somewhere along the coast               47% illuminated                     ☷ earth over ☳ thunder
                                            new moon in 7 days                  "what was lost is coming
                 Overcast                   next new moon: Sep 11                back; do not chase it"
-       .--.     91 °F
-    .-(    ).   ↘ 2 mph
+       .--.     +86(84) °F
+    .-(    ).   ↙ 4 mph
    (___.__)__)  6 mi
                 0.0 in
 ```
