@@ -3,12 +3,12 @@
 <!-- NOW:START -->
 
 ```
-   · 11:54 PM                             🌘  waning crescent                ䷘  25 Wú Wàng — Innocence
-   somewhere along the coast              34% illuminated                    ☰ heaven over ☳ thunder
-                                          new moon in 6 days                 "act without ulterior
-      \   /     Clear                     next new moon: Sep 11               motive; the path will
-       .-.      +77(75) °F                                                    hold"
-    ― (   ) ―   ↓ 4 mph
+   · 8:53 AM                            🌘  waning crescent              ䷙  26 Dà Chù — Great Restraint
+   somewhere along the coast            31% illuminated                  ☶ mountain over ☰ heaven
+                                        new moon in 6 days               "hold the energy; release
+      \   /     Clear                   next new moon: Sep 11             it only when it serves"
+       .-.      73 °F
+    ― (   ) ―   ↓ 3 mph
        `-’      6 mi
       /   \     0.0 in
 ```
