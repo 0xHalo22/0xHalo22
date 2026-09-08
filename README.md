@@ -3,12 +3,12 @@
 <!-- NOW:START -->
 
 ```
-   · 7:39 PM                      🌘  waning crescent        ䷛  28 Dà Guò — Preponderance of the Great
-   somewhere along the coast      10% illuminated            ☱ lake over ☴ wind
-                                  new moon in 3 days         "the beam bends; act
-                Overcast          next new moon: Sep 11       before it breaks"
-       .--.     +73(69) °F
-    .-(    ).   ↘ 13 mph
+   · 12:22 AM                               🌘  waning crescent                  ䷜  29 Kǎn — The Abyss
+   somewhere along the coast                9% illuminated                       ☵ water over ☵ water
+                                            new moon in 3 days                   "in the danger, hold to
+                Overcast                    next new moon: Sep 11                 what is true; do not
+       .--.     69 °F                                                             panic"
+    .-(    ).   ↘ 9 mph
    (___.__)__)  6 mi
                 0.0 in
 ```
