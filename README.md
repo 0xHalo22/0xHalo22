@@ -3,14 +3,14 @@
 <!-- NOW:START -->
 
 ```
-   · 9:03 AM                      🌘  waning crescent        ䷛  28 Dà Guò — Preponderance of the Great
-   somewhere along the coast      13% illuminated            ☱ lake over ☴ wind
-                                  new moon in 4 days         "the beam bends; act
-      \   /     Sunny             next new moon: Sep 11       before it breaks"
-       .-.      66 °F
-    ― (   ) ―   ↘ 7 mph
-       `-’      6 mi
-      /   \     0.0 in
+   · 2:36 PM                      🌘  waning crescent        ䷛  28 Dà Guò — Preponderance of the Great
+   somewhere along the coast      12% illuminated            ☱ lake over ☴ wind
+                                  new moon in 3 days         "the beam bends; act
+                Overcast          next new moon: Sep 11       before it breaks"
+       .--.     +78(73) °F
+    .-(    ).   ↘ 13 mph
+   (___.__)__)  6 mi
+                0.0 in
 ```
 
 <!-- NOW:END -->
