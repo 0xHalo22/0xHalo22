@@ -3,14 +3,14 @@
 <!-- NOW:START -->
 
 ```
-   · 9:07 AM                                🌘  waning crescent                  ䷜  29 Kǎn — The Abyss
-   somewhere along the coast                7% illuminated                       ☵ water over ☵ water
-                                            new moon in 3 days                   "in the danger, hold to
-      \   /     Sunny                       next new moon: Sep 11                 what is true; do not
-       .-.      +66(62) °F                                                        panic"
-    ― (   ) ―   ↓ 11 mph
-       `-’      6 mi
-      /   \     0.0 in
+   · 2:42 PM                                🌘  waning crescent                  ䷜  29 Kǎn — The Abyss
+   somewhere along the coast                6% illuminated                       ☵ water over ☵ water
+                                            new moon in 2 days                   "in the danger, hold to
+                Cloudy                      next new moon: Sep 11                 what is true; do not
+       .--.     +77(68) °F                                                        panic"
+    .-(    ).   ↘ 14 mph
+   (___.__)__)  6 mi
+                0.0 in
 ```
 
 <!-- NOW:END -->
