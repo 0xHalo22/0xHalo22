@@ -3,12 +3,12 @@
 <!-- NOW:START -->
 
 ```
-   · 7:31 PM                               🌑  near new moon                   ䷞  31 Xián — Influence
-   somewhere along the coast               0% illuminated                      ☱ lake over ☶ mountain
-                                           new moon today                      "feeling moves first; let
-      \   /     Sunny                      next new moon: Sep 11                it lead"
-       .-.      +82(75) °F
-    ― (   ) ―   ↘ 11 mph
+   · 12:15 AM                             🌑  near new moon                    ䷟  32 Héng — Duration
+   somewhere along the coast              0% illuminated                       ☳ thunder over ☴ wind
+                                          first quarter in 7 days              "endure without rigidity"
+      \   /     Clear                     next full moon: Sep 26
+       .-.      71 °F
+    ― (   ) ―   ↓ 3 mph
        `-’      6 mi
       /   \     0.0 in
 ```
