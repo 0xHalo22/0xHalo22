@@ -3,12 +3,12 @@
 <!-- NOW:START -->
 
 ```
-   · 9:01 AM                               🌑  near new moon                   ䷞  31 Xián — Influence
+   · 2:33 PM                               🌑  near new moon                   ䷞  31 Xián — Influence
    somewhere along the coast               0% illuminated                      ☱ lake over ☶ mountain
                                            new moon today                      "feeling moves first; let
-      \   /     Clear                      next new moon: Sep 11                it lead"
-       .-.      +64(62) °F
-    ― (   ) ―   ↓ 5 mph
+      \   /     Sunny                      next new moon: Sep 11                it lead"
+       .-.      +84(82) °F
+    ― (   ) ―   ↗ 2 mph
        `-’      6 mi
       /   \     0.0 in
 ```
