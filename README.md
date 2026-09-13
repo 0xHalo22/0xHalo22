@@ -3,12 +3,12 @@
 <!-- NOW:START -->
 
 ```
-   · 7:11 PM                             🌒  waxing crescent                 ䷠  33 Dùn — Retreat
-   somewhere along the coast             4% illuminated                      ☰ heaven over ☶ mountain
-                                         first quarter in 5 days             "step back early; this is
-      \   /     Sunny                    next full moon: Sep 26               not weakness"
-       .-.      +86(82) °F
-    ― (   ) ―   → 8 mph
+   · 12:10 AM                          🌒  waxing crescent               ䷡  34 Dà Zhuàng — Great Power
+   somewhere along the coast           5% illuminated                    ☳ thunder over ☰ heaven
+                                       first quarter in 5 days           "strength has arrived; do
+      \   /     Clear                  next full moon: Sep 26             not abuse it"
+       .-.      +80(78) °F
+    ― (   ) ―   ↓ 4 mph
        `-’      6 mi
       /   \     0.0 in
 ```
