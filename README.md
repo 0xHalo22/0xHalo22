@@ -3,12 +3,12 @@
 <!-- NOW:START -->
 
 ```
-   · 4:52 PM                           🌒  waxing crescent               ䷡  34 Dà Zhuàng — Great Power
-   somewhere along the coast           9% illuminated                    ☳ thunder over ☰ heaven
-                                       first quarter in 5 days           "strength has arrived; do
-      \   /     Sunny                  next full moon: Sep 26             not abuse it"
-       .-.      +87(84) °F
-    ― (   ) ―   → 6 mph
+   · 12:51 AM                              🌒  waxing crescent                   ䷢  35 Jìn — Progress
+   somewhere along the coast               11% illuminated                       ☲ fire over ☷ earth
+                                           first quarter in 4 days               "the sun rises; act in
+      \   /     Clear                      next full moon: Sep 26                 plain view"
+       .-.      +75(73) °F
+    ― (   ) ―   ↘ 5 mph
        `-’      6 mi
       /   \     0.0 in
 ```
