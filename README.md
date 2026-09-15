@@ -4,8 +4,8 @@
 
 ```
    · somewhere along the coast              🌒  waxing crescent                  ䷢  35 Jìn — Progress
-   (weather unavailable)                    15% illuminated                      ☲ fire over ☷ earth
-                                            first quarter in 4 days              "the sun rises; act in
+   (weather unavailable)                    17% illuminated                      ☲ fire over ☷ earth
+                                            first quarter in 3 days              "the sun rises; act in
                                             next full moon: Sep 26                plain view"
 ```
 
