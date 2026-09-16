@@ -3,14 +3,14 @@
 <!-- NOW:START -->
 
 ```
-   · 7:53 PM                       🌒  waxing crescent           ䷣  36 Míng Yí — Darkening of the Light
-   somewhere along the coast       25% illuminated               ☷ earth over ☲ fire
-                                   first quarter in 2 days       "hide your light a while;
-      \   /     Sunny              next full moon: Sep 26         the darkness is brief"
-       .-.      +71(60) °F
-    ― (   ) ―   ↘ 21 mph
-       `-’      6 mi
-      /   \     0.0 in
+   · 12:38 AM                            🌒  waxing crescent                 ䷤  37 Jiā Rén — The Family
+   somewhere along the coast             27% illuminated                     ☴ wind over ☲ fire
+                                         first quarter in 2 days             "tend to your inner
+                Overcast                 next full moon: Sep 26               circle; the outer takes
+       .--.     +66(60) °F                                                    care of itself"
+    .-(    ).   ↓ 14 mph
+   (___.__)__)  6 mi
+                0.0 in
 ```
 
 <!-- NOW:END -->
