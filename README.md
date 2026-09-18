@@ -3,12 +3,12 @@
 <!-- NOW:START -->
 
 ```
-   · 12:32 AM                             🌒  waxing crescent                 ䷥  38 Kuí — Opposition
-   somewhere along the coast              37% illuminated                     ☲ fire over ☱ lake
-                                          first quarter tomorrow              "differences are not
+   · 9:13 AM                              🌒  waxing crescent                 ䷥  38 Kuí — Opposition
+   somewhere along the coast              41% illuminated                     ☲ fire over ☱ lake
+                                          first quarter today                 "differences are not
                 Overcast                  next full moon: Sep 26               enmity — find the common
-       .--.     +64(59) °F                                                     point"
-    .-(    ).   ↓ 13 mph
+       .--.     +62(60) °F                                                     point"
+    .-(    ).   ↓ 8 mph
    (___.__)__)  6 mi
                 0.0 in
 ```
