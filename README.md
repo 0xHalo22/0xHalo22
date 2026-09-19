@@ -3,12 +3,12 @@
 <!-- NOW:START -->
 
 ```
-   · 7:00 PM                              🌔  waxing gibbous                  ䷦  39 Jiǎn — Obstruction
-   somewhere along the coast              55% illuminated                     ☵ water over ☶ mountain
-                                          full moon in 7 days                 "the path is hard; turn
-      \   /     Sunny                     next full moon: Sep 26               inward, ask why"
-       .-.      +84(77) °F
-    ― (   ) ―   ↘ 10 mph
+   · 12:03 AM                              🌔  waxing gibbous                   ䷧  40 Xiè — Deliverance
+   somewhere along the coast               58% illuminated                      ☳ thunder over ☵ water
+                                           full moon in 7 days                  "the storm has passed;
+      \   /     Clear                      next full moon: Sep 26                resume gently"
+       .-.      +77(71) °F
+    ― (   ) ―   ↓ 6 mph
        `-’      6 mi
       /   \     0.0 in
 ```
