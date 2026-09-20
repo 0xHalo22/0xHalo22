@@ -3,12 +3,12 @@
 <!-- NOW:START -->
 
 ```
-   · 7:13 PM                               🌔  waxing gibbous                   ䷧  40 Xiè — Deliverance
-   somewhere along the coast               66% illuminated                      ☳ thunder over ☵ water
-                                           full moon in 6 days                  "the storm has passed;
-      \   /     Sunny                      next full moon: Sep 26                resume gently"
-       .-.      +84(78) °F
-    ― (   ) ―   ↘ 9 mph
+   · 12:14 AM                              🌔  waxing gibbous                   ䷨  41 Sǔn — Decrease
+   somewhere along the coast               68% illuminated                      ☶ mountain over ☱ lake
+                                           full moon in 6 days                  "give something up; what
+      \   /     Clear                      next full moon: Sep 26                remains will be enough"
+       .-.      +77(73) °F
+    ― (   ) ―   ↓ 6 mph
        `-’      6 mi
       /   \     0.0 in
 ```
