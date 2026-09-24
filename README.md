@@ -3,13 +3,13 @@
 <!-- NOW:START -->
 
 ```
-   · 8:08 PM                             🌔  waxing gibbous                 ䷫  44 Gòu — Coming to Meet
-   somewhere along the coast             96% illuminated                    ☰ heaven over ☴ wind
-                                         full moon in 2 days                "something small enters;
-                Overcast                 next full moon: Sep 26              watch what it grows
-       .--.     +80(73) °F                                                   into"
-    .-(    ).   ↘ 9 mph
-   (___.__)__)  6 mi
+   · 12:52 AM                           🌔  waxing gibbous               ䷬  45 Cuì — Gathering Together
+   somewhere along the coast            97% illuminated                  ☱ lake over ☷ earth
+                                        full moon in 2 days              "people gather around
+     \  /       Partly Cloudy           next full moon: Sep 26            purpose; show up"
+   _ /"".-.     +75(71) °F
+     \_(   ).   ↘ 6 mph
+     /(___(__)  6 mi
                 0.0 in
 ```
 
