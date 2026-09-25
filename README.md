@@ -3,12 +3,12 @@
 <!-- NOW:START -->
 
 ```
-   · 8:14 PM                           🌔  waxing gibbous               ䷬  45 Cuì — Gathering Together
-   somewhere along the coast           99% illuminated                  ☱ lake over ☷ earth
-                                       full moon today                  "people gather around
-                Overcast               next full moon: Sep 26            purpose; show up"
-       .--.     +75(66) °F
-    .-(    ).   ↓ 11 mph
+   · 12:56 AM                           🌔  waxing gibbous                ䷭  46 Shēng — Pushing Upward
+   somewhere along the coast            100% illuminated                  ☷ earth over ☴ wind
+                                        full moon today                   "ascend without strain;
+                Overcast                next full moon: Sep 26             the way is open"
+       .--.     +66(62) °F
+    .-(    ).   ↓ 9 mph
    (___.__)__)  6 mi
                 0.0 in
 ```
