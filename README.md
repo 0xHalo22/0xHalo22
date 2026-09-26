@@ -3,12 +3,12 @@
 <!-- NOW:START -->
 
 ```
-   · 7:36 PM                            🌕  near full moon                ䷭  46 Shēng — Pushing Upward
-   somewhere along the coast            100% illuminated                  ☷ earth over ☴ wind
-                                        last quarter in 7 days            "ascend without strain;
-                Overcast                next new moon: Oct 11              the way is open"
-       .--.     +78(71) °F
-    .-(    ).   ↘ 10 mph
+   · 12:37 AM                              🌕  near full moon                   ䷮  47 Kùn — Oppression
+   somewhere along the coast               100% illuminated                     ☱ lake over ☵ water
+                                           last quarter in 7 days               "exhaustion is real; do
+                Overcast                   next new moon: Oct 11                 less, not more"
+       .--.     +71(66) °F
+    .-(    ).   ↓ 11 mph
    (___.__)__)  6 mi
                 0.0 in
 ```
