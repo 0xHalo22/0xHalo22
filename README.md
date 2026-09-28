@@ -3,12 +3,12 @@
 <!-- NOW:START -->
 
 ```
-   · 10:44 AM                               🌖  waning gibbous                    ䷯  48 Jǐng — The Well
-   somewhere along the coast                96% illuminated                       ☵ water over ☴ wind
-                                            last quarter in 6 days                "the source is steady;
+   · 10:13 PM                               🌖  waning gibbous                    ䷯  48 Jǐng — The Well
+   somewhere along the coast                94% illuminated                       ☵ water over ☴ wind
+                                            last quarter in 5 days                "the source is steady;
                 Overcast                    next new moon: Oct 11                  tend the means of
-       .--.     +71(73) °F                                                         access"
-    .-(    ).   ↖ 2 mph
+       .--.     69 °F                                                              access"
+    .-(    ).   ↗ 4 mph
    (___.__)__)  6 mi
                 0.0 in
 ```
