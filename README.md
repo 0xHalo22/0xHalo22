@@ -3,12 +3,12 @@
 <!-- NOW:START -->
 
 ```
-   · 10:48 AM                             🌖  waning gibbous                  ䷰  49 Gé — Revolution
-   somewhere along the coast              91% illuminated                     ☱ lake over ☲ fire
-                                          last quarter in 5 days              "what was must change;
+   · 8:58 PM                              🌖  waning gibbous                  ䷰  49 Gé — Revolution
+   somewhere along the coast              89% illuminated                     ☱ lake over ☲ fire
+                                          last quarter in 4 days              "what was must change;
                 Overcast                  next new moon: Oct 11                the timing now is right"
-       .--.     +69(66) °F
-    .-(    ).   ↑ 13 mph
+       .--.     +71(68) °F
+    .-(    ).   ↑ 14 mph
    (___.__)__)  6 mi
                 0.0 in
 ```
