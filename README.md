@@ -3,14 +3,14 @@
 <!-- NOW:START -->
 
 ```
-   · 9:20 PM                              🌖  waning gibbous                  ䷲  51 Zhèn — The Arousing
-   somewhere along the coast              72% illuminated                     ☳ thunder over ☳ thunder
-                                          last quarter in 2 days              "the shock arrives; meet
-      \   /     Clear                     next new moon: Oct 11                it without flinching"
-       .-.      +64(57) °F
-    ― (   ) ―   ↘ 13 mph
-       `-’      6 mi
-      /   \     0.0 in
+   · 1:46 AM                             🌖  waning gibbous                 ䷳  52 Gèn — Keeping Still
+   somewhere along the coast             70% illuminated                    ☶ mountain over ☶ mountain
+                                         last quarter in 2 days             "stop where you are; this
+                Overcast                 next new moon: Oct 11               is the right place"
+       .--.     +62(59) °F
+    .-(    ).   ↘ 7 mph
+   (___.__)__)  6 mi
+                0.0 in
 ```
 
 <!-- NOW:END -->
