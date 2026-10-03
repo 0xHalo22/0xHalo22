@@ -3,14 +3,14 @@
 <!-- NOW:START -->
 
 ```
-   · 7:40 PM                            🌖  waning gibbous               ䷴  53 Jiàn — Gradual Progress
-   somewhere along the coast            52% illuminated                  ☴ wind over ☶ mountain
-                                        last quarter today               "step by step, like a
-                Overcast                next new moon: Oct 11             tree growing on the
-       .--.     77 °F                                                     mountain"
-    .-(    ).   ↘ 6 mph
-   (___.__)__)  6 mi
-                0.0 in
+   · 12:46 AM                                     🌖  waning gibbous         ䷵  54 Guī Mèi — The Marrying Maiden
+   somewhere along the coast                      50% illuminated            ☳ thunder over ☱ lake
+                                                  last quarter today         "you are not the center
+   _`/"".-.     Thundery outbreaks in nearby      next new moon: Oct 11       of this; act with care"
+    ,\_(   ).   +71(73) °F
+     /(___(__)  ↓ 2 mph
+      ⚡‘‘⚡‘‘  5 mi
+      ‘ ‘ ‘ ‘   0.0 in
 ```
 
 <!-- NOW:END -->
