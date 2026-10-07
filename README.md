@@ -3,12 +3,12 @@
 <!-- NOW:START -->
 
 ```
-   · 9:18 PM                               🌘  waning crescent                 ䷷  56 Lǚ — The Wanderer
-   somewhere along the coast               22% illuminated                     ☲ fire over ☶ mountain
-                                           new moon in 5 days                  "you are a guest here;
-      \   /     Sunny                      next new moon: Oct 11                travel light, leave
-       .-.      +69(66) °F                                                      clean"
-    ― (   ) ―   ↘ 9 mph
+   · 1:41 AM                                🌘  waning crescent                  ䷸  57 Xùn — The Gentle
+   somewhere along the coast                20% illuminated                      ☴ wind over ☴ wind
+                                            new moon in 4 days                   "small consistent
+      \   /     Clear                       next new moon: Oct 11                 influence beats sudden
+       .-.      66 °F                                                             force"
+    ― (   ) ―   ↘ 5 mph
        `-’      6 mi
       /   \     0.0 in
 ```
