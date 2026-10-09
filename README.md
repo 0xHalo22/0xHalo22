@@ -3,12 +3,12 @@
 <!-- NOW:START -->
 
 ```
-   · 9:41 PM                                🌘  waning crescent                  ䷹  58 Duì — The Joyous
-   somewhere along the coast                7% illuminated                       ☱ lake over ☱ lake
-                                            new moon in 3 days                   "share what brings you
-      \   /     Clear                       next new moon: Oct 11                 joy; it multiplies"
-       .-.      +68(62) °F
-    ― (   ) ―   ↓ 8 mph
+   · 2:12 AM                               🌘  waning crescent                 ䷺  59 Huàn — Dispersion
+   somewhere along the coast               6% illuminated                      ☴ wind over ☵ water
+                                           new moon in 2 days                  "what was rigid
+      \   /     Clear                      next new moon: Oct 11                dissolves; this is
+       .-.      +66(60) °F                                                      mercy"
+    ― (   ) ―   ↙ 7 mph
        `-’      6 mi
       /   \     0.0 in
 ```
