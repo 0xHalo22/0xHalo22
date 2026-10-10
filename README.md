@@ -3,12 +3,12 @@
 <!-- NOW:START -->
 
 ```
-   · 9:05 PM                               🌘  waning crescent                 ䷺  59 Huàn — Dispersion
-   somewhere along the coast               3% illuminated                      ☴ wind over ☵ water
-                                           new moon in 2 days                  "what was rigid
-      \   /     Clear                      next new moon: Oct 11                dissolves; this is
-       .-.      +68(62) °F                                                      mercy"
-    ― (   ) ―   ↘ 8 mph
+   · 1:49 AM                                🌘  waning crescent                  ䷻  60 Jié — Limitation
+   somewhere along the coast                2% illuminated                       ☵ water over ☱ lake
+                                            new moon tomorrow                    "freedom requires a
+      \   /     Clear                       next new moon: Oct 11                 frame; choose yours"
+       .-.      +62(59) °F
+    ― (   ) ―   ↓ 4 mph
        `-’      6 mi
       /   \     0.0 in
 ```
