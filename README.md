@@ -3,12 +3,12 @@
 <!-- NOW:START -->
 
 ```
-   · 9:40 PM                           🌒  waxing crescent               ䷾  63 Jì Jì — After Completion
-   somewhere along the coast           7% illuminated                    ☵ water over ☲ fire
-                                       first quarter in 5 days           "the work is done; the
-      \   /     Clear                  next full moon: Oct 26             next thing has not
-       .-.      +68(66) °F                                                begun"
-    ― (   ) ―   ↘ 5 mph
+   · 1:16 AM                          🌒  waxing crescent              ䷿  64 Wèi Jì — Before Completion
+   somewhere along the coast          8% illuminated                   ☲ fire over ☵ water
+                                      first quarter in 5 days          "you are almost there; do
+      \   /     Clear                 next full moon: Oct 26            not falter at the last
+       .-.      66 °F                                                   step"
+    ― (   ) ―   ↓ 3 mph
        `-’      6 mi
       /   \     0.0 in
 ```
