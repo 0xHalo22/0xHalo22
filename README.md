@@ -3,14 +3,14 @@
 <!-- NOW:START -->
 
 ```
-   · 2:56 PM                              🌒  waxing crescent                  ䷁  2 Kūn — The Receptive
-   somewhere along the coast              28% illuminated                      ☷ earth over ☷ earth
+   · 7:47 PM                              🌒  waxing crescent                  ䷁  2 Kūn — The Receptive
+   somewhere along the coast              30% illuminated                      ☷ earth over ☷ earth
                                           first quarter in 2 days              "yield, follow, accept
-      \   /     Sunny                     next full moon: Oct 26                what arrives"
-       .-.      +84(82) °F
-    ― (   ) ―   ↓ 4 mph
-       `-’      6 mi
-      /   \     0.0 in
+                Overcast                  next full moon: Oct 26                what arrives"
+       .--.     +71(66) °F
+    .-(    ).   ↘ 13 mph
+   (___.__)__)  6 mi
+                0.0 in
 ```
 
 <!-- NOW:END -->
