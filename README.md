@@ -3,13 +3,13 @@
 <!-- NOW:START -->
 
 ```
-   · 12:34 AM                     🌒  waxing crescent          ䷂  3 Zhūn — Difficulty at the Beginning
-   somewhere along the coast      31% illuminated              ☵ water over ☳ thunder
-                                  first quarter in 2 days      "do not move yet — gather
-                Overcast          next full moon: Oct 26        yourself first"
-       .--.     +66(64) °F
-    .-(    ).   ↓ 8 mph
-   (___.__)__)  6 mi
+   · 8:46 AM                       🌒  waxing crescent         ䷂  3 Zhūn — Difficulty at the Beginning
+   somewhere along the coast       35% illuminated             ☵ water over ☳ thunder
+                                   first quarter tomorrow      "do not move yet — gather
+     \  /       Partly Cloudy      next full moon: Oct 26       yourself first"
+   _ /"".-.     +64(62) °F
+     \_(   ).   ↘ 9 mph
+     /(___(__)  6 mi
                 0.0 in
 ```
 
