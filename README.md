@@ -3,12 +3,12 @@
 <!-- NOW:START -->
 
 ```
-   · 7:04 PM                             🌒  waxing crescent                ䷃  4 Méng — Youthful Folly
-   somewhere along the coast             50% illuminated                    ☶ mountain over ☵ water
-                                         first quarter today                "the question must be
-      \   /     Sunny                    next full moon: Oct 26              asked sincerely or not
-       .-.      +77(69) °F                                                   at all"
-    ― (   ) ―   ↙ 11 mph
+   · 12:10 AM                              🌔  waxing gibbous                   ䷄  5 Xū — Waiting
+   somewhere along the coast               52% illuminated                      ☵ water over ☰ heaven
+                                           full moon in 7 days                  "patience now is its own
+      \   /     Clear                      next full moon: Oct 26                action"
+       .-.      +69(64) °F
+    ― (   ) ―   ↙ 9 mph
        `-’      6 mi
       /   \     0.0 in
 ```
