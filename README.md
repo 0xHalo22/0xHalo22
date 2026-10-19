@@ -3,12 +3,12 @@
 <!-- NOW:START -->
 
 ```
-   · 9:50 AM                               🌔  waxing gibbous                   ䷄  5 Xū — Waiting
-   somewhere along the coast               56% illuminated                      ☵ water over ☰ heaven
-                                           full moon in 7 days                  "patience now is its own
+   · 5:26 PM                               🌔  waxing gibbous                   ䷄  5 Xū — Waiting
+   somewhere along the coast               60% illuminated                      ☵ water over ☰ heaven
+                                           full moon in 6 days                  "patience now is its own
       \   /     Sunny                      next full moon: Oct 26                action"
-       .-.      +60(55) °F
-    ― (   ) ―   ↙ 6 mph
+       .-.      +73(69) °F
+    ― (   ) ―   ↘ 6 mph
        `-’      6 mi
       /   \     0.0 in
 ```
