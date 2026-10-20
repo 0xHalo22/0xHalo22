@@ -3,14 +3,14 @@
 <!-- NOW:START -->
 
 ```
-   · 8:15 PM                               🌔  waxing gibbous                  ䷅  6 Sòng — Conflict
-   somewhere along the coast               71% illuminated                     ☰ heaven over ☵ water
-                                           full moon in 5 days                 "step back; meet halfway
-     \  /       Partly Cloudy              next full moon: Oct 26               before things harden"
-   _ /"".-.     +60(55) °F
-     \_(   ).   ↘ 9 mph
-     /(___(__)  6 mi
-                0.0 in
+   · 12:51 AM                               🌔  waxing gibbous                    ䷆  7 Shī — The Army
+   somewhere along the coast                73% illuminated                       ☷ earth over ☵ water
+                                            full moon in 5 days                   "lead from discipline,
+      \   /     Clear                       next full moon: Oct 26                 not from force"
+       .-.      +59(57) °F
+    ― (   ) ―   ↘ 4 mph
+       `-’      6 mi
+      /   \     0.0 in
 ```
 
 <!-- NOW:END -->
