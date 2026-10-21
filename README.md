@@ -3,14 +3,14 @@
 <!-- NOW:START -->
 
 ```
-   · 8:17 PM                                🌔  waxing gibbous                    ䷆  7 Shī — The Army
-   somewhere along the coast                80% illuminated                       ☷ earth over ☵ water
-                                            full moon in 4 days                   "lead from discipline,
-                Cloudy                      next full moon: Oct 26                 not from force"
-       .--.     +60(53) °F
-    .-(    ).   ↓ 11 mph
-   (___.__)__)  6 mi
-                0.0 in
+   · 12:59 AM                            🌔  waxing gibbous                 ䷇  8 Bǐ — Holding Together
+   somewhere along the coast             82% illuminated                    ☵ water over ☷ earth
+                                         full moon in 4 days                "stand close to others
+      \   /     Clear                    next full moon: Oct 26              while it still costs
+       .-.      +55(51) °F                                                   nothing"
+    ― (   ) ―   ↓ 7 mph
+       `-’      6 mi
+      /   \     0.0 in
 ```
 
 <!-- NOW:END -->
