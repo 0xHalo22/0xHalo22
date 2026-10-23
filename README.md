@@ -3,12 +3,12 @@
 <!-- NOW:START -->
 
 ```
-   · 8:11 PM                           🌔  waxing gibbous               ䷈  9 Xiǎo Chù — Small Restraint
-   somewhere along the coast           94% illuminated                  ☴ wind over ☰ heaven
-                                       full moon in 2 days              "small steps; gentle
-      \   /     Clear                  next full moon: Oct 26            pressure; do not force
-       .-.      +60(53) °F                                               the hand"
-    ― (   ) ―   ↓ 11 mph
+   · 12:51 AM                              🌔  waxing gibbous                   ䷉  10 Lǚ — Treading
+   somewhere along the coast               95% illuminated                      ☰ heaven over ☱ lake
+                                           full moon in 2 days                  "walk carefully past the
+      \   /     Clear                      next full moon: Oct 26                tiger; do not provoke
+       .-.      +55(51) °F                                                       it"
+    ― (   ) ―   ↓ 8 mph
        `-’      6 mi
       /   \     0.0 in
 ```
