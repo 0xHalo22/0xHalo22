@@ -3,12 +3,12 @@
 <!-- NOW:START -->
 
 ```
-   · 7:07 PM                               🌔  waxing gibbous                  ䷉  10 Lǚ — Treading
-   somewhere along the coast               98% illuminated                     ☰ heaven over ☱ lake
-                                           full moon tomorrow                  "walk carefully past the
-     \  /       Partly Cloudy              next full moon: Oct 26               tiger; do not provoke
-   _ /"".-.     +64(57) °F                                                      it"
-     \_(   ).   ↘ 11 mph
+   · 12:12 AM                               🌔  waxing gibbous                   ䷊  11 Tài — Peace
+   somewhere along the coast                98% illuminated                      ☷ earth over ☰ heaven
+                                            full moon tomorrow                   "heaven and earth meet;
+     \  /       Partly Cloudy               next full moon: Oct 26                share what you have"
+   _ /"".-.     +57(53) °F
+     \_(   ).   ↘ 8 mph
      /(___(__)  6 mi
                 0.0 in
 ```
