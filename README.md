@@ -3,13 +3,13 @@
 <!-- NOW:START -->
 
 ```
-   · 2:19 PM                               🌔  waxing gibbous                   ䷉  10 Lǚ — Treading
-   somewhere along the coast               97% illuminated                      ☰ heaven over ☱ lake
-                                           full moon in 2 days                  "walk carefully past the
-                Cloudy                     next full moon: Oct 26                tiger; do not provoke
-       .--.     +68(62) °F                                                       it"
-    .-(    ).   ↓ 4 mph
-   (___.__)__)  6 mi
+   · 7:07 PM                               🌔  waxing gibbous                  ䷉  10 Lǚ — Treading
+   somewhere along the coast               98% illuminated                     ☰ heaven over ☱ lake
+                                           full moon tomorrow                  "walk carefully past the
+     \  /       Partly Cloudy              next full moon: Oct 26               tiger; do not provoke
+   _ /"".-.     +64(57) °F                                                      it"
+     \_(   ).   ↘ 11 mph
+     /(___(__)  6 mi
                 0.0 in
 ```
 
