@@ -3,14 +3,14 @@
 <!-- NOW:START -->
 
 ```
-   · 8:15 PM                              🌖  waning gibbous                  ䷎  15 Qiān — Modesty
-   somewhere along the coast              85% illuminated                     ☷ earth over ☶ mountain
-                                          last quarter in 4 days              "the high makes itself
-      \   /     Clear                     next new moon: Nov 9                 low; this is durable"
-       .-.      +68(66) °F
-    ― (   ) ―   ↘ 4 mph
-       `-’      6 mi
-      /   \     0.0 in
+   · 12:58 AM                              🌖  waning gibbous                   ䷏  16 Yù — Enthusiasm
+   somewhere along the coast               84% illuminated                      ☳ thunder over ☷ earth
+                                           last quarter in 3 days               "the moment is buoyant;
+                Overcast                   next new moon: Nov 9                  ride it but do not lose
+       .--.     +64(60) °F                                                       your seat"
+    .-(    ).   ↙ 3 mph
+   (___.__)__)  6 mi
+                0.0 in
 ```
 
 <!-- NOW:END -->
