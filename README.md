@@ -3,12 +3,12 @@
 <!-- NOW:START -->
 
 ```
-   · 7:16 PM                              🌖  waning gibbous                  ䷐  17 Suí — Following
-   somewhere along the coast              68% illuminated                     ☱ lake over ☳ thunder
-                                          last quarter in 2 days              "follow the current — but
-      \   /     Clear                     next new moon: Nov 9                 choose which current"
-       .-.      +69(66) °F
-    ― (   ) ―   ↘ 5 mph
+   · 12:06 AM                          🌖  waning gibbous               ䷑  18 Gǔ — Work on the Decayed
+   somewhere along the coast           66% illuminated                  ☶ mountain over ☴ wind
+                                       last quarter in 2 days           "what was neglected must
+      \   /     Clear                  next new moon: Nov 9              be repaired now"
+       .-.      +64(59) °F
+    ― (   ) ―   ↓ 3 mph
        `-’      6 mi
       /   \     0.0 in
 ```
