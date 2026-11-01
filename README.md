@@ -3,12 +3,12 @@
 <!-- NOW:START -->
 
 ```
-   · 12:06 AM                          🌖  waning gibbous               ䷑  18 Gǔ — Work on the Decayed
-   somewhere along the coast           66% illuminated                  ☶ mountain over ☴ wind
-                                       last quarter in 2 days           "what was neglected must
-      \   /     Clear                  next new moon: Nov 9              be repaired now"
-       .-.      +64(59) °F
-    ― (   ) ―   ↓ 3 mph
+   · 10:25 AM                           🌖  waning gibbous               ䷑  18 Gǔ — Work on the Decayed
+   somewhere along the coast            62% illuminated                  ☶ mountain over ☴ wind
+                                        last quarter tomorrow            "what was neglected must
+      \   /     Sunny                   next new moon: Nov 9              be repaired now"
+       .-.      +62(57) °F
+    ― (   ) ―   ↙ 6 mph
        `-’      6 mi
       /   \     0.0 in
 ```
