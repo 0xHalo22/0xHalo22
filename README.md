@@ -3,10 +3,10 @@
 <!-- NOW:START -->
 
 ```
-   · somewhere along the coast               🌘  waning crescent                ䷒  19 Lín — Approach
-   (weather unavailable)                     45% illuminated                    ☷ earth over ☱ lake
-                                             new moon in 7 days                 "spring approaches; meet
-                                             next new moon: Nov 9                it halfway"
+   · somewhere along the coast             🌘  waning crescent              ䷓  20 Guān — Contemplation
+   (weather unavailable)                   40% illuminated                  ☴ wind over ☷ earth
+                                           new moon in 6 days               "watch first, act later"
+                                           next new moon: Nov 9
 ```
 
 <!-- NOW:END -->
