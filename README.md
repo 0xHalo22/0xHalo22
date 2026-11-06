@@ -3,12 +3,12 @@
 <!-- NOW:START -->
 
 ```
-   · 9:27 PM                                🌘  waning crescent                 ䷕  22 Bì — Grace
-   somewhere along the coast                17% illuminated                     ☶ mountain over ☲ fire
-                                            new moon in 4 days                  "form serves substance;
-                Overcast                    next new moon: Nov 9                 do not mistake one for
-       .--.     +59(57) °F                                                       the other"
-    .-(    ).   → 3 mph
+   · 10:50 AM                              🌘  waning crescent                ䷖  23 Bō — Stripping Away
+   somewhere along the coast               13% illuminated                    ☶ mountain over ☷ earth
+                                           new moon in 3 days                 "the old falls; let it"
+                Cloudy                     next new moon: Nov 9
+       .--.     +55(51) °F
+    .-(    ).   ← 6 mph
    (___.__)__)  6 mi
                 0.0 in
 ```
