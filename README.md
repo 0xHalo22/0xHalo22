@@ -3,12 +3,12 @@
 <!-- NOW:START -->
 
 ```
-   · 12:55 AM                               🌘  waning crescent                 ䷗  24 Fù — Return
-   somewhere along the coast                9% illuminated                      ☷ earth over ☳ thunder
-                                            new moon in 3 days                  "what was lost is coming
+   · 10:04 AM                               🌘  waning crescent                 ䷗  24 Fù — Return
+   somewhere along the coast                7% illuminated                      ☷ earth over ☳ thunder
+                                            new moon in 2 days                  "what was lost is coming
                 Overcast                    next new moon: Nov 9                 back; do not chase it"
-       .--.     +55(53) °F
-    .-(    ).   ↙ 4 mph
+       .--.     +59(57) °F
+    .-(    ).   ← 5 mph
    (___.__)__)  6 mi
                 0.0 in
 ```
