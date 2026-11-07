@@ -3,14 +3,14 @@
 <!-- NOW:START -->
 
 ```
-   · 8:53 PM                               🌘  waning crescent                ䷖  23 Bō — Stripping Away
-   somewhere along the coast               10% illuminated                    ☶ mountain over ☷ earth
-                                           new moon in 3 days                 "the old falls; let it"
-      \   /     Clear                      next new moon: Nov 9
-       .-.      60 °F
-    ― (   ) ―   ↖ 4 mph
-       `-’      6 mi
-      /   \     0.0 in
+   · 12:55 AM                               🌘  waning crescent                 ䷗  24 Fù — Return
+   somewhere along the coast                9% illuminated                      ☷ earth over ☳ thunder
+                                            new moon in 3 days                  "what was lost is coming
+                Overcast                    next new moon: Nov 9                 back; do not chase it"
+       .--.     +55(53) °F
+    .-(    ).   ↙ 4 mph
+   (___.__)__)  6 mi
+                0.0 in
 ```
 
 <!-- NOW:END -->
