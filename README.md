@@ -3,14 +3,14 @@
 <!-- NOW:START -->
 
 ```
-   · 7:40 PM                                 🌘  waning crescent             ䷘  25 Wú Wàng — Innocence
-   somewhere along the coast                 1% illuminated                  ☰ heaven over ☳ thunder
-                                             new moon tomorrow               "act without ulterior
-   _`/"".-.     Light rain shower            next new moon: Nov 9             motive; the path will
-    ,\_(   ).   +66(60) °F                                                    hold"
-     /(___(__)  ↖ 16 mph
+   · 12:53 AM                              🌘  waning crescent           ䷙  26 Dà Chù — Great Restraint
+   somewhere along the coast               1% illuminated                ☶ mountain over ☰ heaven
+                                           new moon today                "hold the energy; release
+   _`/"".-.     Light rain shower          next new moon: Nov 9           it only when it serves"
+    ,\_(   ).   +66(59) °F
+     /(___(__)  ↑ 21 mph
        ‘ ‘ ‘ ‘  6 mi
-      ‘ ‘ ‘ ‘   0.0 in
+      ‘ ‘ ‘ ‘   0.1 in
 ```
 
 <!-- NOW:END -->
