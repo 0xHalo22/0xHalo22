@@ -3,14 +3,14 @@
 <!-- NOW:START -->
 
 ```
-   · 9:56 PM                       🌒  waxing crescent          ䷛  28 Dà Guò — Preponderance of the Great
-   somewhere along the coast       4% illuminated               ☱ lake over ☴ wind
-                                   first quarter in 5 days      "the beam bends; act
-     \  /       Partly cloudy      next full moon: Nov 24        before it breaks"
-   _ /"".-.     62 °F
-     \_(   ).   → 10 mph
-     /(___(__)  6 mi
-                0.0 in
+   · 11:04 AM                                 🌒  waxing crescent                ䷜  29 Kǎn — The Abyss
+   somewhere along the coast                  7% illuminated                     ☵ water over ☵ water
+                                              first quarter in 5 days            "in the danger, hold to
+   _`/"".-.     Patchy rain nearby            next full moon: Nov 24              what is true; do not
+    ,\_(   ).   +64(59) °F                                                        panic"
+     /(___(__)  → 12 mph
+       ‘ ‘ ‘ ‘  6 mi
+      ‘ ‘ ‘ ‘   0.0 in
 ```
 
 <!-- NOW:END -->
