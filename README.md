@@ -3,14 +3,14 @@
 <!-- NOW:START -->
 
 ```
-   · 8:23 PM                              🌒  waxing crescent                 ䷟  32 Héng — Duration
-   somewhere along the coast              35% illuminated                     ☳ thunder over ☴ wind
-                                          first quarter tomorrow              "endure without rigidity"
-                Cloudy                    next full moon: Nov 24
-       .--.     +59(60) °F
-    .-(    ).   ↗ 3 mph
-   (___.__)__)  6 mi
-                0.0 in
+   · 1:00 AM                                 🌒  waxing crescent              ䷠  33 Dùn — Retreat
+   somewhere along the coast                 37% illuminated                  ☰ heaven over ☶ mountain
+                                             first quarter tomorrow           "step back early; this is
+   _`/"".-.     Patchy rain nearby           next full moon: Nov 24            not weakness"
+    ,\_(   ).   +60(59) °F
+     /(___(__)  ↑ 6 mph
+       ‘ ‘ ‘ ‘  6 mi
+      ‘ ‘ ‘ ‘   0.0 in
 ```
 
 <!-- NOW:END -->
