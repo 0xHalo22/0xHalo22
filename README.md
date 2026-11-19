@@ -3,12 +3,12 @@
 <!-- NOW:START -->
 
 ```
-   · 10:34 PM                                  🌔  waxing gibbous                 ䷢  35 Jìn — Progress
-   somewhere along the coast                   67% illuminated                    ☲ fire over ☷ earth
-                                               full moon in 6 days                "the sun rises; act in
-   _`/"".-.     Patchy rain nearby             next full moon: Nov 24              plain view"
-    ,\_(   ).   +62(59) °F
-     /(___(__)  → 13 mph
+   · 11:37 AM                           🌔  waxing gibbous          ䷣  36 Míng Yí — Darkening of the Light
+   somewhere along the coast            72% illuminated             ☷ earth over ☲ fire
+                                        full moon in 5 days         "hide your light a while;
+   _`/"".-.     Patchy rain nearby      next full moon: Nov 24       the darkness is brief"
+    ,\_(   ).   +62(57) °F
+     /(___(__)  → 10 mph
        ‘ ‘ ‘ ‘  6 mi
       ‘ ‘ ‘ ‘   0.0 in
 ```
