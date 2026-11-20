@@ -3,12 +3,12 @@
 <!-- NOW:START -->
 
 ```
-   · 10:39 PM                      🌔  waxing gibbous           ䷣  36 Míng Yí — Darkening of the Light
-   somewhere along the coast       77% illuminated              ☷ earth over ☲ fire
-                                   full moon in 5 days          "hide your light a while;
-                Overcast           next full moon: Nov 24        the darkness is brief"
-       .--.     +57(55) °F
-    .-(    ).   → 3 mph
+   · 11:36 AM                            🌔  waxing gibbous                 ䷤  37 Jiā Rén — The Family
+   somewhere along the coast             81% illuminated                    ☴ wind over ☲ fire
+                                         full moon in 4 days                "tend to your inner
+                Overcast                 next full moon: Nov 24              circle; the outer takes
+       .--.     +62(60) °F                                                   care of itself"
+    .-(    ).   ↑ 4 mph
    (___.__)__)  6 mi
                 0.0 in
 ```
