@@ -3,14 +3,14 @@
 <!-- NOW:START -->
 
 ```
-   · 10:14 PM                            🌔  waxing gibbous                 ䷤  37 Jiā Rén — The Family
-   somewhere along the coast             85% illuminated                    ☴ wind over ☲ fire
-                                         full moon in 4 days                "tend to your inner
-                Overcast                 next full moon: Nov 24              circle; the outer takes
-       .--.     +60(55) °F                                                   care of itself"
-    .-(    ).   ↑ 12 mph
-   (___.__)__)  6 mi
-                0.0 in
+   · 10:58 AM                                🌔  waxing gibbous               ䷥  38 Kuí — Opposition
+   somewhere along the coast                 89% illuminated                  ☲ fire over ☱ lake
+                                             full moon in 3 days              "differences are not
+   _`/"".-.     Patchy rain nearby           next full moon: Nov 24            enmity — find the common
+    ,\_(   ).   +64(59) °F                                                     point"
+     /(___(__)  ↑ 15 mph
+       ‘ ‘ ‘ ‘  6 mi
+      ‘ ‘ ‘ ‘   0.0 in
 ```
 
 <!-- NOW:END -->
