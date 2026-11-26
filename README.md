@@ -3,14 +3,14 @@
 <!-- NOW:START -->
 
 ```
-   · 11:36 PM                              🌖  waning gibbous                   ䷩  42 Yì — Increase
-   somewhere along the coast               98% illuminated                      ☴ wind over ☳ thunder
-                                           last quarter in 6 days               "act now; the wind is at
-      \   /     Clear                      next new moon: Dec 9                  your back"
-       .-.      +51(50) °F
-    ― (   ) ―   ↘ 4 mph
-       `-’      6 mi
-      /   \     0.0 in
+   · 12:29 PM                                🌖  waning gibbous               ䷪  43 Guài — Breakthrough
+   somewhere along the coast                 96% illuminated                  ☱ lake over ☰ heaven
+                                             last quarter in 6 days           "say the thing; resolve
+   _`/"".-.     Patchy rain nearby           next new moon: Dec 9              the standoff openly"
+    ,\_(   ).   60 °F
+     /(___(__)  ↗ 3 mph
+       ‘ ‘ ‘ ‘  6 mi
+      ‘ ‘ ‘ ‘   0.0 in
 ```
 
 <!-- NOW:END -->
