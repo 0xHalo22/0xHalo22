@@ -3,13 +3,13 @@
 <!-- NOW:START -->
 
 ```
-   · 11:26 PM                             🌖  waning gibbous                 ䷫  44 Gòu — Coming to Meet
-   somewhere along the coast              88% illuminated                    ☰ heaven over ☴ wind
-                                          last quarter in 4 days             "something small enters;
-     \  /       Partly Cloudy             next new moon: Dec 9                watch what it grows
-   _ /"".-.     +57(55) °F                                                    into"
-     \_(   ).   ↑ 3 mph
-     /(___(__)  6 mi
+   · 11:42 AM                          🌖  waning gibbous               ䷬  45 Cuì — Gathering Together
+   somewhere along the coast           84% illuminated                  ☱ lake over ☷ earth
+                                       last quarter in 4 days           "people gather around
+                Overcast               next new moon: Dec 9              purpose; show up"
+       .--.     57 °F
+    .-(    ).   ← 2 mph
+   (___.__)__)  6 mi
                 0.0 in
 ```
 
